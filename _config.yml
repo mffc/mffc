@@ -3,3 +3,7 @@ markdown: redcarpet
 pygments: true
 
 permalink: /:categories/:title/
+
+# github settings
+baseurl: /mffc
+
