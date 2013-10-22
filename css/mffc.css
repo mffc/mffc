@@ -34,7 +34,7 @@ body{
 
  .black_frame{
   background: #fefefe;
-  border: 0.7em solid #0e1f1f;
+  border: 0.7em solid #E8E3E3;
   position: relative;
   padding: 1em;
    -moz-box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.7);
