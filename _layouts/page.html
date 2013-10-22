@@ -8,9 +8,11 @@ layout: default
       <div style="margin: 2em;">
         <div class="black_frame">
           <ul class="nav nav-pills nav-stacked sidenav" >
-            <li><a href="#MER">恩愛夫婦營</a></li>
-            <li><a href="#MER2">夫婦進深營</a></li>
-            <li><a href="#MERForm">報名表</a></li>
+            {% if page.submenu %}
+              {% for item in page.submenu %}
+              <li><a href="#{{ item.hook }}">{{ item.title }}</a></li>
+              {% endfor %}
+            {% endif %}
           </ul>
         </div>
 
@@ -22,8 +24,8 @@ layout: default
         <div style="margin: 2em">
           <!-- <div data-spy="scroll" data-offset="0" class="scrollspy"
                data-target=".sidenav"> -->
-    {{ content }}
-    <!-- </div> -->
+          {{ content }}
+          <!-- </div> -->
         </div>
       </div>
     </div>
