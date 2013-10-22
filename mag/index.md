@@ -9,7 +9,7 @@ categories: mag
         <div class="white_frame">
           <div style="margin : 5%">
             <a href="{{site.baseurl}}{{entry.url}}" class="thumbnail">
-              <img src="{{site.baseurl}}images/mainRight.jpg" class="img-responsive">
+              <img src="{{site.baseurl}}/images/mainRight.jpg" class="img-responsive">
               <div class="caption">
                 <h3 class="text-center">{{entry.title}}</h3>
               </div>
