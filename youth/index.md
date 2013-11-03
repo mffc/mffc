@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 青年關係事工
+lang:
 categories: youth
 ---
 {% for entry in site.categories.youth %}

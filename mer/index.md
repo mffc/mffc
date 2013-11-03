@@ -4,6 +4,7 @@ title: 夫婦營及婚姻事工
 categories: mer
 ---
 {% for entry in site.categories.mer %}
+  {% if entry.lang == page.lang %}
    <div class="col-lg-3 col-lg-push-2 col-md-4 col-md-push-3 col-sm-5 col-sm-push-3 md-offset">
       <div style="margin:1em">
         <div class="white_frame">
@@ -18,5 +19,6 @@ categories: mer
         </div>
       </div>
     </div>
+  {% endif %}
 {% endfor %}
 

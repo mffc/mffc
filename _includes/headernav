@@ -1,3 +1,4 @@
+{% assign t = site.data.translations %}
 <header class="navbar menu">
   <div class="navbar-header">
     <button class="navbar-toggle pull-left" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
@@ -10,10 +11,12 @@
   <nav class="collapse navbar-collapse bs-navbar-collapse">
     <ul class="nav navbar-nav">
       <li class="dropdown">
-      <a id="nav1" href="#" data-toggle="dropdown" >關於家新</span>
+      <a id="nav1" href="#" data-toggle="dropdown" >{{ t.[page.lang].header.about }}</span>
       <ul class="dropdown-menu" aria-labelledby="nav1">
         {% for post in site.categories.about %}
+          {% if post.lang == page.lang %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> </li>
+          {% endif %}
         {% endfor %}
       </ul>
       </li>
@@ -21,7 +24,9 @@
       <a id="nav4" href="#" data-toggle="dropdown">青年關係事工</a>
       <ul class="dropdown-menu" aria-labelledby="nav4">
         {% for post in site.categories.youth %}
+          {% if post.lang == page.lang %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> </li>
+          {% endif %}
         {% endfor %}
       </ul>
       </li>
@@ -29,7 +34,9 @@
       <a id="nav3" href="#" data-toggle="dropdown">夫婦營及婚姻事工</a>
       <ul class="dropdown-menu" aria-labelledby="nav3">
         {% for post in site.categories.mer %}
+          {% if post.lang == page.lang %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> </li>
+          {% endif %}
         {% endfor %}
       </ul>
       </li>
@@ -37,7 +44,9 @@
       <a id="nav5" href="#" data-toggle="dropdown">文字及影音</a>
       <ul class="dropdown-menu" aria-labelledby="nav5">
         {% for post in site.categories.mag %}
+          {% if post.lang == page.lang %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> </li>
+          {% endif %}
         {% endfor %}
       </ul>
       </li> 

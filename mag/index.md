@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 文字及影音 
+lang:
 categories: mag
 ---
 {% for entry in site.categories.mag %}
