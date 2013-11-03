@@ -7,3 +7,24 @@ permalink: /:categories/:title/
 # github settings
 baseurl: /mffc
 
+translations:
+  en:
+    logo:
+      name: "Marriage & Family For Christ"
+      slogan: ""
+    header:
+      about: 'About us'
+      youth: "Youth"
+      mer: "Marriage"
+      mag: "Publications"
+      news: "News"
+  zh-hk:
+    logo:
+      name: " 澳洲家庭更新協會"
+      slogan: "建立生命品格， 活像基督的家新人"
+    header:
+      about: "關於家新"
+      youth: "青年關係事工"
+      mer: "夫婦營及婚姻事工"
+      mag: "文字及影音"
+      news: "聚會"
