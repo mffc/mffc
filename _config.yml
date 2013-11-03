@@ -12,6 +12,8 @@ translations:
     logo:
       name: "Marriage & Family For Christ"
       slogan: ""
+    side_menu:
+      whats_new: "What's New"
     header:
       about: 'About us'
       youth: "Youth"
@@ -22,6 +24,8 @@ translations:
     logo:
       name: " 澳洲家庭更新協會"
       slogan: "建立生命品格， 活像基督的家新人"
+    side_menu:
+      whats_new: "最新動向"
     header:
       about: "關於家新"
       youth: "青年關係事工"

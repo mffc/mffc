@@ -3,12 +3,19 @@ layout: default
 lang: zh-hk
 title: 澳洲家庭更新協會
 ---
-
+{% assign t = site.translations %}
 <div class="center_row">
   <div class="row">
     <div class="col-lg-2 visible-lg lg-offset">
       <div style="margin:1em" >
-        <div class="black_frame"><img src="images/2013Jun.gif" class="img-responsive"></img></div>
+        <div class="black_frame">
+          <div class="label label-success">{{ t.[page.lang].side_menu.whats_new }}</div>
+          <ul class="list-unstyled">
+          {% for page in site.posts limit:5 %}
+          <li><a href="{{site.baseurl}}{{ page.url}}">{{page.title}}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
     </div>
     <div class="col-lg-3 col-lg-push-2 col-md-4 col-md-push-3 col-sm-5 col-sm-push-3 md-offset">
