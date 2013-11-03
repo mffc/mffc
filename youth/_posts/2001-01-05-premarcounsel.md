@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 婚前服務
-lang:
+lang: zh-hk
 categories: youth
 ---
 輔導服務

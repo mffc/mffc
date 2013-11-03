@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 文字及影音 
-lang:
+lang: zh-hk
 categories: mag
 ---
 {% for entry in site.categories.mag %}
