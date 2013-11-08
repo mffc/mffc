@@ -3,18 +3,23 @@ layout: page
 title: 婚前服務
 lang: zh-hk
 categories: youth
+submenu:
+  - {hook: "mer",   title: "服務簡介"}
+  - {hook: "purpose", title: "About PREPARE/ENRICH"}
+  - {hook: "aim", title: "報名方法"}
+  - {hook: "apply_tch", title: "輔導員履歷"}
 ---
 輔導服務
 
 婚前評量及輔導服務
-　
+==================
 
 
 
 (放大)
 
 簡介:
-
+-----
 結婚是人生大事。從戀愛到談婚論嫁，情侶們都會思考到很多問題，例如對婚姻的期望，双方的性格是否配合，婚後的財政處理，生育計劃……等等
 
 澳洲家庭更新協會的異象和使命，是鞏固華人基督徒的婚姻和家庭。多年來所舉辦的「恩愛夫婦營」更新了很多夫婦的關係。「家新」的構思是希望透過一套整全的結婚前、結婚及至結婚後，提供全備的關顧和支持。因此「家新」現推出「婚前評量及輔導服務」，由專業人仕帶領，透過專為婚前男女設計的〝PREPARE/ENRICH(參註)〞評估測驗及課程，共四次的見談輔導，為準備結婚的男女做好婚前預備和調整。
@@ -44,7 +49,8 @@ ministers. In the contrary, this service is meant to complement that
 provided by the pastors and ministers, to give maximum preparation to
 the young couples when they enter into marriage.
 
-　
+About prepare and rich
+----------------------
 
 內容: 
 
