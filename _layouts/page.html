@@ -6,16 +6,16 @@ layout: default
 
     <div class="col-lg-2 visible-lg">
       <div style="margin: 2em;">
+            {% if page.submenu %}
         <div class="black_frame">
           <ul class="nav nav-pills nav-stacked sidenav" >
-            {% if page.submenu %}
-              {% for item in page.submenu %}
-              <li><a href="#{{ item.hook }}">{{ item.title }}</a></li>
-              {% endfor %}
-            {% endif %}
+            {% for item in page.submenu %}
+            <li><a href="#{{ item.hook }}">{{ item.title }}</a></li>
+            {% endfor %}
           </ul>
         </div>
 
+            {% endif %}
       </div>  
     </div>
 
@@ -32,7 +32,12 @@ layout: default
 
     <div class="col-lg-2 visible-lg">
       <div style="margin: 2em;">
-        <div class="black_frame"><img src="20130810.gif" class="img-responsive"></div>
+        {% if page.submenu-right %}
+        <div class="black_frame">
+          {{ page.submenu-right }}
+        </div>
+        {% endif %}
+
       </div>  
     </div>
   </div>
