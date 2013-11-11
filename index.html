@@ -11,7 +11,7 @@ title: 澳洲家庭更新協會
         <div class="black_frame">
           <div class="label label-success">{{ t.[page.lang].side_menu.whats_new }}</div>
           <ul class="list-unstyled">
-          {% for page in site.posts limit:5 %}
+          {% for page in site.posts.[page.lang] limit:5 %}
           <li><a href="{{site.baseurl}}{{ page.url}}">{{page.title}}</a></li>
             {% endfor %}
           </ul>

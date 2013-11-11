@@ -2,7 +2,9 @@
 layout: page
 title: 婚姻輔導
 lang: zh-hk
-categories: mer
+categories:
+  - zh-hk
+  - mer
 ---
 輔導服務
 ========
