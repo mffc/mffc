@@ -1,24 +1,24 @@
 ---
 layout: page
-title: 婚前服務
+title: 婚前評量及輔導
 lang: zh-hk
 categories: youth
 submenu:
-  - {hook: "mer",   title: "服務簡介"}
-  - {hook: "purpose", title: "About PREPARE/ENRICH"}
-  - {hook: "aim", title: "報名方法"}
-  - {hook: "apply_tch", title: "輔導員履歷"}
+  - {hook: "intro",   title: "服務簡介"}
+  - {hook: "about", title: "About PREPARE/ENRICH"}
+  - {hook: "register", title: "報名方法"}
+  - {hook: "profile", title: "輔導員履歷"}
+submenu-right:
+  <a href="../YouthWorkshop-Application-Form.pdf" class="thumbnail"><img src="../2011_Pre-marital_Counselling_Poster_Small.jpg"><div class="caption"><h4 class="text-center">報名表格</h4></div></a>
 ---
-輔導服務
-
 婚前評量及輔導服務
 ==================
 
+<img class="img-responsive" src="../2011_Pre-marital_Counselling_Poster_Small.jpg">
 
+[(放大)](../2011_Pre-marital_Counselling_Poster.jpg)
 
-(放大)
-
-簡介:
+簡介 <a name="intro">&nbsp;</a>
 -----
 結婚是人生大事。從戀愛到談婚論嫁，情侶們都會思考到很多問題，例如對婚姻的期望，双方的性格是否配合，婚後的財政處理，生育計劃……等等
 
@@ -26,30 +26,7 @@ submenu:
 
 此套婚前評量及輔導服務，並非取代教會牧者為將結婚人仕所進行的輔導。相反，此服務和教會牧者的婚前輔導是相輔相成，為準備結婚的男女作最充分的準備。
 　
-
-PRE-MARITAL COUNSELLING
-Marriage is a big event in one’s life. From dating to marriage, young
-couples have to consider many issues, such as each one’s expectation of
-marriage, if their personalities would complement each other, how they
-will use money, family planning, etc. etc.
-
-The vision and mission of Marriage & Family For Christ is to strengthen
-marriages and families of the Chinese Christians. The MER conducted over
-the years have successfully renewed many marriages. MFFC is keen to
-provide a complete course of training in caring and support from
-pre-marriage to marriage and after marriage. Presently, “Pre-marital
-Personality Tests and Counselling Service’ is provided by professionals
-who will conduct the “PREPARE/ENRICH” tests and course, and 4 face to
-face counselling sessions, for young couples to prepare themselves to
-enter into marriage .
-
-The Pre-marital Counselling Course is not meant to replace the
-counselling guidance provided by the young couples’ church pastors and
-ministers. In the contrary, this service is meant to complement that
-provided by the pastors and ministers, to give maximum preparation to
-the young couples when they enter into marriage.
-
-About prepare and rich
+About prepare and rich<a name="about">&nbsp;</a>
 ----------------------
 
 內容: 
@@ -77,4 +54,46 @@ About prepare and rich
 
 註: PREPARE/ENRICH(婚前/婚後評量及成長課程)是美國Life Innovations Inc.
 總裁Dr. David H.
-Olson在80年代發展的一套可靠、有效並且使用簡便的婚前/婚後輔導和成長工具，能全面地評量情侶/夫妻關係，能藉此幫助二人了解彼此關係中的強項和待成長之處，並透過與輔導員的面談和實際練習，作有效溝通及處理分歧。目前此機構在全球共有13個辦事處，超過二百萬對情侶/夫婦做過這套評量課程。欲知該機構資料及有關測驗請參閱www.prepare-enrich.com
+Olson在80年代發展的一套可靠、有效並且使用簡便的婚前/婚後輔導和成長工具，能全面地評量情侶/夫妻關係，能藉此幫助二人了解彼此關係中的強項和待成長之處，並透過與輔導員的面談和實際練習，作有效溝通及處理分歧。目前此機構在全球共有13個辦事處，超過二百萬對情侶/夫婦做過這套評量課程。欲知該機構資料及有關測驗請參閱[www.prepare-enrich.com](http://www.prepare-enrich.com)
+
+
+報名方法 <a name="register">&nbsp;</a>
+--------
+[下載表格](../YouthWorkshop-Application-Form.pdf) 
+
+請下載表格載表格，填妥後傳真至：(02) 9715 6924
+或寄往家新辦事處
+
+P.O. Box 313
+Burwood NSW 1805
+Australia
+
+婚前輔導回顧及評量表
+[下載表格](../PreMaritalCounsellingApplicationForm_2013.pdf) 
+　
+請下載表格，填妥後傳真至：(02) 9715 6924
+或寄往家新辦事處
+
+
+輔導員履歷<a name="profile">&nbsp;</a>
+----------
+周天駇(Anselm Chow)
+
+專業心理輔導員Professional psychological counsellor
+
+美國心理輔導會專業會員 Professional member of American Counselling
+Association
+
+前香港浸會大學高級心理輔導主任 Former senior psychological counsellor,
+Hong Kong Baptist University
+
+前香港浸會大學持續進修學院輔導課程、香港伯特利神學院輔導課程客席講師
+Former lecturer(part time) of counselling courses, Hong Kong Baptist
+University and Bethel Bible Seminary of Hong Kong
+
+前香港突破機構輔導中心、香港伯特利神學院輔導中心顧問 Former advisor of
+Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong
+
+
+　
+

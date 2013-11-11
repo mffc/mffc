@@ -53,9 +53,11 @@
       <li class="dropdown">
       <a id="nav2" href="#" data-toggle="dropdown">{{ t.[page.lang].header.news }}</a>
       <ul class="dropdown-menu" aria-labelledby="nav2">
-        <li><a href="MER.html" class="title">最新聚會</a></li>
-        <li><a href="MER.html" class="title">公開聚會</a></li>
-        <li><a href="MER.html" class="title">感恩大團聚</a></li>
+         {% for post in site.categories.news %}
+          {% if post.lang == page.lang %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> </li>
+          {% endif %}
+        {% endfor %}
       </ul>
       </li>
    </ul>
