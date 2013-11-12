@@ -6,9 +6,11 @@ categories:
   - zh-hk
   - mer
 ---
+<div class="container">
+<div class="row">
 {% for entry in site.categories.mer %}
   {% if entry.lang == page.lang %}
-   <div class="col-lg-3 col-lg-push-2 col-md-4 col-md-push-3 col-sm-5 col-sm-push-3 md-offset">
+   <div class="col-lg-3 col-md-4 col-sm-5">
       <div style="margin:1em">
         <div class="white_frame">
           <div style="margin : 5%">
@@ -24,4 +26,5 @@ categories:
     </div>
   {% endif %}
 {% endfor %}
-
+</div>
+</div>
