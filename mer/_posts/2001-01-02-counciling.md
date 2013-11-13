@@ -5,12 +5,18 @@ lang: zh-hk
 categories:
 - zh-hk
 - mer
+submenu:
+  - {hook: 'info', title: "申請須知"}
+  - {hook: 'sydney', title: "悉尼"}
+  - {hook: 'brisbane', title: '布里斯本'}
 ---
-輔導服務
-========
 
 婚姻輔導服務
-------------
+============
+
+申請須知
+--------
+
 1. 此輔導乃本會對已參加過恩愛夫婦營或經教會引薦的服務；
 
 2. 服務收費直接交予輔導員; 本會並無收取任何費用
@@ -27,7 +33,7 @@ categories:
 <div class="panel-group " id="mag-panel">
 <div class="panel panel-default">
 <div class="panel-heading">
-<a data-toggle="collapse" data-parent="#mag-panel" href="#collapse2013"><h4>悉尼</h4></a>
+<a data-toggle="collapse" name="sydney" data-parent="#mag-panel" href="#collapse2013"><h4>悉尼</h4></a>
 </div>
 <div id="collapse2013">
 <div class="panel-body">
@@ -70,7 +76,7 @@ Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong
 </div>
 <div class="panel panel-default">
 <div class="panel-heading">
-<a data-toggle="collapse" data-parent="#mag-panel" href="#collapse2014"><h4>布里斯本</h4></a>
+<a data-toggle="collapse" name="brisbane" data-parent="#mag-panel" href="#collapse2014"><h4>布里斯本</h4></a>
 </div>
 <div id="collapse2014">
 <div class="panel-body">
