@@ -87,6 +87,15 @@ Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong
 與Connie Hon (0433-997-716/ lcconnielam@gmail.com) 聯絡
 </P>
 <hr>
+<h4>輔導員履歷</h4>
+Connie Hon<br>
+
+Christian Counsellor and Family Therapist<br>
+MA(TESOL), BA ( Ed),  Adv.Dip Counselling & Family Therapy <br>
+ ( Australian
+Institute of Family Counselling)
+ 
+
 </div>
 </div>
 </div>
