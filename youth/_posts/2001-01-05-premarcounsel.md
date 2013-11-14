@@ -9,14 +9,14 @@ submenu:
   - {hook: "register", title: "報名方法"}
   - {hook: "profile", title: "輔導員履歷"}
 submenu-right:
-  <a href="../YouthWorkshop-Application-Form.pdf" class="thumbnail"><img src="../2011_Pre-marital_Counselling_Poster_Small.jpg"><div class="caption"><h4 class="text-center">報名表格</h4></div></a>
+  <a href="../PreMaritalCounsellingApplicationForm_2013.pdf" class="thumbnail"><img src="../2011_Pre-marital_Counselling_Poster_Small.jpg"><div class="caption"><h4 class="text-center">報名表格</h4></div></a>
 ---
 婚前評量及輔導服務
 ==================
 
+<a href="../2011_Pre-marital_Counselling_Poster.jpg">
 <img class="img-responsive" src="../2011_Pre-marital_Counselling_Poster_Small.jpg">
-
-[(放大)](../2011_Pre-marital_Counselling_Poster.jpg)
+(放大)</a>
 
 簡介 <a name="intro">&nbsp;</a>
 -----
@@ -28,6 +28,10 @@ submenu-right:
 　
 About prepare and rich<a name="about">&nbsp;</a>
 ----------------------
+
+PREPARE/ENRICH(婚前/婚後評量及成長課程)是美國Life Innovations Inc.
+總裁Dr. David H.
+Olson在80年代發展的一套可靠、有效並且使用簡便的婚前/婚後輔導和成長工具，能全面地評量情侶/夫妻關係，能藉此幫助二人了解彼此關係中的強項和待成長之處，並透過與輔導員的面談和實際練習，作有效溝通及處理分歧。目前此機構在全球共有13個辦事處，超過二百萬對情侶/夫婦做過這套評量課程。欲知該機構資料及有關測驗請參閱[www.prepare-enrich.com](http://www.prepare-enrich.com)
 
 內容: 
 
@@ -50,16 +54,13 @@ About prepare and rich<a name="about">&nbsp;</a>
 
 服務語言: 粵語/國語
 
-費用: 每對$296, 另支付PREPARE/ENRICH測驗問卷費用$44, 合共$340
-
-註: PREPARE/ENRICH(婚前/婚後評量及成長課程)是美國Life Innovations Inc.
-總裁Dr. David H.
-Olson在80年代發展的一套可靠、有效並且使用簡便的婚前/婚後輔導和成長工具，能全面地評量情侶/夫妻關係，能藉此幫助二人了解彼此關係中的強項和待成長之處，並透過與輔導員的面談和實際練習，作有效溝通及處理分歧。目前此機構在全球共有13個辦事處，超過二百萬對情侶/夫婦做過這套評量課程。欲知該機構資料及有關測驗請參閱[www.prepare-enrich.com](http://www.prepare-enrich.com)
 
 
 報名方法 <a name="register">&nbsp;</a>
 --------
-[下載表格](../YouthWorkshop-Application-Form.pdf) 
+費用: 每對$296, 另支付PREPARE/ENRICH測驗問卷費用$44, 合共$340
+
+[下載表格](../PreMaritalCounsellingApplicationForm_2013.pdf) 
 
 請下載表格載表格，填妥後傳真至：(02) 9715 6924
 或寄往家新辦事處
@@ -69,7 +70,7 @@ Burwood NSW 1805
 Australia
 
 婚前輔導回顧及評量表
-[下載表格](../PreMaritalCounsellingApplicationForm_2013.pdf) 
+[下載表格](../Pre_Marital_Feedback_Form_2013.pdf)
 　
 請下載表格，填妥後傳真至：(02) 9715 6924
 或寄往家新辦事處
