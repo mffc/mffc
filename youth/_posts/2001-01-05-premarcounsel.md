@@ -5,7 +5,7 @@ lang: zh-hk
 categories: youth
 submenu:
   - {hook: "intro",   title: "服務簡介"}
-  - {hook: "about", title: "About PREPARE/ENRICH"}
+  - {hook: "about", title: "婚前/婚後評量及成長課程"}
   - {hook: "register", title: "報名方法"}
   - {hook: "profile", title: "輔導員履歷"}
 submenu-right:
@@ -26,7 +26,7 @@ submenu-right:
 
 此套婚前評量及輔導服務，並非取代教會牧者為將結婚人仕所進行的輔導。相反，此服務和教會牧者的婚前輔導是相輔相成，為準備結婚的男女作最充分的準備。
 　
-About prepare and rich<a name="about">&nbsp;</a>
+婚前/婚後評量及成長課程<a name="about">&nbsp;</a>
 ----------------------
 
 PREPARE/ENRICH(婚前/婚後評量及成長課程)是美國Life Innovations Inc.
