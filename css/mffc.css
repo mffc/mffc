@@ -19,9 +19,9 @@ body{
 }
 
 .col-xs-1,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.col-xs-10,.col-xs-11,.col-xs-12,.col-sm-1,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-10,.col-sm-11,.col-sm-12,.col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12,.col-lg-1,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-10,.col-lg-11,.col-lg-12{
-    padding-left: 4px;
-    padding-right: 4px;
-  }
+  padding-left: 4px;
+  padding-right: 4px;
+}
 .navbar-toggle{
   border-color: #005826;
   float: left;
@@ -32,30 +32,30 @@ body{
   background-color: #005826;
 }
 
- .black_frame{
+.black_frame{
   background: #fefefe;
   border: 0.7em solid #E8E3E3;
   position: relative;
   padding: 1em;
-   -moz-box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.7);
-   box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.7);
- }
+  -moz-box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.7);
+  box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.7);
+}
 
-  .white_frame{
+.white_frame{
   background: #fefefe;
   border: 1em solid white;
   position: relative;
-   -moz-box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.3);
-   box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.3);
- }
+  -moz-box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.3);
+  box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.3);
+}
 
-  .thumbnail:before{
-   margin: 2em;
- }
- .thumbnail{
-   border: 0px;
-   background-color: transparent;
- }
+.thumbnail:before{
+  margin: 2em;
+}
+.thumbnail{
+  border: 0px;
+  background-color: transparent;
+}
 
 .logo_row{
   margin-top: 2em;
@@ -92,8 +92,8 @@ body{
 }
 
 .menu{
- // padding: 12.2% 0% 0% 26%;
- width: 100%;
+  // padding: 12.2% 0% 0% 26%;
+  width: 100%;
   color:#005826;
   background: #F9F1DD;
   border-top: 0.5em  solid #ffffff;
@@ -154,15 +154,15 @@ a:active{
 }
 
 @media screen and (max-width: 768px){
-.logo_row{
-  margin-left: 1em;
-}
-.logo{
-  height:75px;
-  width: 75px;
-}
+  .logo_row{
+    margin-left: 1em;
+  }
+  .logo{
+    height:75px;
+    width: 75px;
+  }
 
-.col-xs-1,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.col-xs-10,.col-xs-11,.col-xs-12,.col-sm-1,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-10,.col-sm-11,.col-sm-12,.col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12,.col-lg-1,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-10,.col-lg-11,.col-lg-12{
+  .col-xs-1,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.col-xs-10,.col-xs-11,.col-xs-12,.col-sm-1,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-10,.col-sm-11,.col-sm-12,.col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12,.col-lg-1,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-10,.col-lg-11,.col-lg-12{
     padding-left: 2px;
     padding-right: 2px;
   }
@@ -176,12 +176,12 @@ a:active{
   }
 
   h4{
-	font-size: 13px;
-}
+    font-size: 13px;
+  }
 
-.caption h4{
-font-size: 24px;
-}
+  .caption h4{
+    font-size: 24px;
+  }
 
   .sofa{
     display: block;
@@ -215,4 +215,35 @@ and (orientation : portrait){
   background-color: #FFF;
 }
 
+.col-centered{
+  margin: 0px auto;
+  float: none;
+}
 
+
+/*https://gist.github.com/jgarber/2302238*/
+
+.flex-video {
+  position: relative;
+  padding-top: 25px;
+  padding-bottom: 67.5%;
+  height: 0;
+  margin-bottom: 16px;
+  overflow: hidden;
+}
+
+.flex-video.widescreen { padding-bottom: 57.25%; }
+.flex-video.vimeo { padding-top: 0; }
+
+.flex-video iframe,
+.flex-video object,
+.flex-video embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+@media only screen and (max-device-width: 800px), only screen and (device-width: 1024px) and (device-height: 600px), only screen and (width: 1280px) and (orientation: landscape), only screen and (device-width: 800px), only screen and (max-width: 767px) {
+  .flex-video { padding-top: 0; }
+}
