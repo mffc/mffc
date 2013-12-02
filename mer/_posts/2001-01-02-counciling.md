@@ -42,7 +42,7 @@ submenu:
 <a href="../MaritalCounsellingServiceApplicationForm_Sydney_2013.pdf">報名表格</a><br>
 <a href="../MaritalCounsellingServiceFeedbackForm_2013.pdf">婚姻輔導回顧及評量表</a>   
 <p>
-，填妥後傳真至： (02) 9715 6924；或
+填妥後傳真至： (02) 9715 6924；或
 <p>
 電郵至 <a href="mailto:info@mffc.org.au">info@mffc.org.au</a>；或
 </p>
@@ -85,7 +85,7 @@ Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong
 <a href="../MaritalCounsellingServiceApplicationForm_BNE_2013.pdf">報名表格</a><br>
 <a href="../MaritalCounsellingServiceFeedbackForm_2013.pdf">婚姻輔導回顧及評量表</a>   
 <p>
-，填妥後傳真至： (02) 9715 6924；或
+填妥後傳真至： (02) 9715 6924；或
 <p>
 電郵至 <a href="mailto:info@mffc.org.au">info@mffc.org.au</a>；或
 </p>
@@ -94,7 +94,7 @@ Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong
 </P>
 <hr>
 <h4>輔導員履歷</h4>
-Connie Hon<br>
+韓林麗貞(Connie Hon)<br>
 
 Christian Counsellor and Family Therapist<br>
 MA(TESOL), BA ( Ed),  Adv.Dip Counselling & Family Therapy <br>
