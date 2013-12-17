@@ -15,7 +15,11 @@ categories:
         <div class="white_frame">
           <div style="margin : 5%">
             <a href="{{site.baseurl}}{{entry.url}}" class="thumbnail">
+              {% if entry.url == "/mer/counciling/" %}
+              <img src="{{site.baseurl}}/images/marriage_counciling.jpg" class="img-responsive">
+              {% else %}
               <img src="{{site.baseurl}}/images/mainLeft.jpg" class="img-responsive">
+              {% endif %}
               <div class="caption">
                 <h3 class="text-center">{{entry.title}}</h3>
               </div>
