@@ -7,7 +7,7 @@ categories:
   - youth
 ---
 <div class="container">
-<div  style="margin: 0px auto">
+<div  style="margin: auto">
 {% for entry in site.categories.youth %}
 {% if entry.lang == page.lang %}
    <div class="col-lg-3 col-md-4 col-sm-5">

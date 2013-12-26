@@ -4,9 +4,9 @@ layout: default
 <div class="container">
   <div class="row">
 
+            {% if page.submenu %}
     <div class="col-lg-2 visible-lg">
       <div style="margin: 2em;">
-            {% if page.submenu %}
         <div class="black_frame">
           <ul class="nav nav-pills nav-stacked sidenav" >
             {% for item in page.submenu %}
@@ -15,9 +15,13 @@ layout: default
           </ul>
         </div>
 
-            {% endif %}
       </div>  
     </div>
+    {% else %}
+    <div class="col-lg-2">
+    </div>
+
+            {% endif %}
 
     <div class="col-lg-8 col-xs-12">
       <div class="white_frame" style="margin: 2em">
@@ -30,6 +34,7 @@ layout: default
       </div>
     </div>
 
+   <!-- 
     <div class="col-lg-2 visible-lg">
       <div style="margin: 2em;">
         {% if page.submenu-right %}
@@ -40,5 +45,6 @@ layout: default
 
       </div>  
     </div>
+-->
   </div>
 </div>
