@@ -1,0 +1,9 @@
+<div class="panel panel-default">
+<div class="panel-heading">
+<div class="panel-title">
+<a name="{{include.name}}" data-toggle="collapse" data-parent="#{{include.parent}}"
+href="#collapse{{include.name}}"><h2>{{include.title}}</h2></a>
+</div>
+</div>
+<div id="collapse{{include.name}}" class="collapse">
+<div class="panel-body">
