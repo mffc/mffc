@@ -17,7 +17,26 @@ categories:
 <a data-toggle="collapse" data-parent="#mag-panel" href="#collapse2013">2013</a>
 </div>
 <div id="collapse2013">
-<div class="panel-body">
+<div class="panel-body">  
+<a href="../English - December 2013.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="December 2013 Magazine"
+src="../English - December 2013.png">
+<div class="caption">
+<h4>2013 December Edition</h4>
+</div></div>
+</div>
+</a>
+<a href="../English - September 2012.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="September 2013 Magazine" src="../English - September 2012.png">
+<div class="caption">
+<h4>2013 September Edition</h4>
+</div></div>
+</div>
+</a>
 <a href="../stayconnect_Sept_2013.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
