@@ -9,7 +9,7 @@ categories:
 
 “家新伴你行” E-Reading電子文章已經順利發行了!
 =============================================
-
+<!-- IF ENGLISH USE H5, OTHERWISE USE H4 -->
 <div class="row">
 <div class="panel-group " id="mag-panel">
 <div class="panel panel-default">
@@ -18,13 +18,23 @@ categories:
 </div>
 <div id="collapse2013">
 <div class="panel-body">  
+<a href="../Mffc 1312.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="December 2013 Magazine"
+src="../Mffc 1312.png">
+<div class="caption">
+<h4>2013年12月號</h4>
+</div></div>
+</div>
+</a>
 <a href="../English - December 2013.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
 <img class="img-responsive" alt="December 2013 Magazine"
 src="../English - December 2013.png">
 <div class="caption">
-<h4>2013 December Edition</h4>
+<h5>2013 December Edition</h5>
 </div></div>
 </div>
 </a>
@@ -33,7 +43,7 @@ src="../English - December 2013.png">
 <div class="thumbnail">
 <img class="img-responsive" alt="September 2013 Magazine" src="../English - September 2012.png">
 <div class="caption">
-<h4>2013 September Edition</h4>
+<h5>2013 September Edition</h5>
 </div></div>
 </div>
 </a>
@@ -149,7 +159,7 @@ src="../English - December 2013.png">
 <div class="thumbnail">
 <img class="img-responsive" alt="December 2012 Magazine English" src="../stayconnect_2012Dec_en.png">
 <div class="caption">
-<h4>2012 December Edition</h4>
+<h5>2012 December Edition</h5>
 </div></div>
 </div>
 </a>
@@ -167,7 +177,7 @@ src="../English - December 2013.png">
 <div class="thumbnail">
 <img class="img-responsive" alt="November 2012 Magazine English" src="../stayconnect_2012Nov_en.png">
 <div class="caption">
-<h4>2012 November Edition</h4>
+<h5>2012 November Edition</h5>
 </div></div>
 </div>
 </a>
