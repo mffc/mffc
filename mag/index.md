@@ -15,7 +15,13 @@ categories:
         <div class="white_frame">
           <div style="margin : 5%">
             <a href="{{site.baseurl}}{{entry.url}}" class="thumbnail">
-              <img src="{{site.baseurl}}/images/mainRight.png" class="img-responsive">
+     {% if entry.url == "/mag/ausmag/" %}
+              <img src="{{site.baseurl}}/images/OZ_icon.jpg" class="img-responsive">
+              {% elsif entry.url == "/mag/mag/" %}
+              <img src="{{site.baseurl}}/images/mag.jpg" class="img-responsive">
+              {% else %}
+              <img src="{{site.baseurl}}/images/mainLeft.jpg" class="img-responsive">
+              {% endif %} 
               <div class="caption">
                 <h3 class="text-center">{{entry.title}}</h3>
               </div>

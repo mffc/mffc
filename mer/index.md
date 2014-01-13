@@ -18,9 +18,9 @@ categories:
               {% if entry.url == "/mer/counciling/" %}
               <img src="{{site.baseurl}}/images/marriage_counciling.jpg" class="img-responsive">
               {% elsif entry.url == "/mer/mer/" %}
-              <img src="{{site.baseurl}}/images/sub_mer1.jpg" class="img-responsive">
+              <img src="{{site.baseurl}}/images/MER 1-2.jpg" class="img-responsive">
               {% elsif entry.url == "/mer/mer2/" %}
-              <img src="{{site.baseurl}}/images/sub_mer2.jpg" class="img-responsive">
+              <img src="{{site.baseurl}}/images/MER 2.jpg" class="img-responsive">
               {% else %}
               <img src="{{site.baseurl}}/images/mainLeft.jpg" class="img-responsive">
               {% endif %}
