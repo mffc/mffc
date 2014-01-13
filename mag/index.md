@@ -18,7 +18,7 @@ categories:
      {% if entry.url == "/mag/ausmag/" %}
               <img src="{{site.baseurl}}/images/OZ_icon.jpg" class="img-responsive">
               {% elsif entry.url == "/mag/mag/" %}
-              <img src="{{site.baseurl}}/images/mag.jpg" class="img-responsive">
+              <img src="{{site.baseurl}}/images/Mag.jpg" class="img-responsive">
               {% else %}
               <img src="{{site.baseurl}}/images/mainLeft.jpg" class="img-responsive">
               {% endif %} 
