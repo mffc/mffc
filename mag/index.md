@@ -20,7 +20,7 @@ categories:
               {% elsif entry.url == "/mag/mag/" %}
               <img src="{{site.baseurl}}/images/Mag.jpg" class="img-responsive">
               {% else %}
-              <img src="{{site.baseurl}}/images/mainLeft.jpg" class="img-responsive">
+              <img src="{{site.baseurl}}/images/publication2.jpg" class="img-responsive">
               {% endif %} 
               <div class="caption">
                 <h3 class="text-center">{{entry.title}}</h3>

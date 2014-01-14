@@ -18,7 +18,7 @@ categories:
                   {% if entry.url == "/youth/premarcounsel/" %}
               <img src="{{site.baseurl}}/images/Premarital.jpg" class="img-responsive">
               {% elsif entry.url == "/youth/youth/" %}
-              <img src="{{site.baseurl}}/images/Youth_Ministry_2.jpg" class="img-responsive">
+              <img src="{{site.baseurl}}/images/Youth_ministry_2.jpg" class="img-responsive">
               {% else %}
               <img src="{{site.baseurl}}/images/mainLeft.jpg" class="img-responsive">
               {% endif %}

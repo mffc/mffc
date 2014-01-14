@@ -12,6 +12,8 @@ categories:
 <!-- IF ENGLISH USE H5, OTHERWISE USE H4 -->
 <div class="row">
 <div class="panel-group " id="mag-panel">
+{% include panel name="2014" parent="mag-panel" title="2014" %}
+{% include panel-end %}
 <div class="panel panel-default">
 <div class="panel-heading">
 <a data-toggle="collapse" data-parent="#mag-panel" href="#collapse2013">2013</a>
@@ -143,7 +145,7 @@ src="../English - December 2013.png">
 <div class="panel-heading">
 <a data-toggle="collapse" data-parent="#mag-panel" href="#collapse2012">2012</a>
 </div>
-<div id="collapse2012">
+<div id="collapse2012" class="collapse">
 <div class="panel-body">
 <a href="../stayconnect_Dec_2012.pdf">
 <div class="col-sm-6 col-md-3">
