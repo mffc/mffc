@@ -19,6 +19,8 @@ categories:
               <img src="{{site.baseurl}}/images/OZ_icon.jpg" class="img-responsive">
               {% elsif entry.url == "/mag/mag/" %}
               <img src="{{site.baseurl}}/images/Mag.jpg" class="img-responsive">
+              {% elsif entry.url == "/mag/stayconnected/" %}
+              <img src="{{site.baseurl}}/images/Stay_connected.jpg" class="img-responsive">
               {% else %}
               <img src="{{site.baseurl}}/images/publication2.jpg" class="img-responsive">
               {% endif %} 
