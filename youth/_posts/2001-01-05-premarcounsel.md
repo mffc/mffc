@@ -2,7 +2,9 @@
 layout: page
 title: 婚前評量及輔導
 lang: zh-hk
-categories: youth
+categories: 
+- zh
+- youth
 submenu:
   - {hook: "intro",   title: "服務簡介"}
   - {hook: "about", title: "婚前/婚後評量及成長課程"}

@@ -23,8 +23,7 @@ categories:
 <a href="../Mffc 1312.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
-<img class="img-responsive" alt="December 2013 Magazine"
-src="../Mffc 1312.png">
+<img class="img-responsive" alt="December 2013 Magazine" src="../Mffc 1312.png">
 <div class="caption">
 <h4>2013年12月號</h4>
 </div></div>
@@ -92,7 +91,7 @@ src="../English - December 2013.png">
 <div class="thumbnail">
 <img class="img-responsive" alt="April 2013 Magazine English" src="../stayconnect_2013Apr_en.png">
 <div class="caption">
-<h4>2013 April Edition</h4>
+<h5>2013 April Edition</h5>
 </div>
 </div>
 </div>
@@ -122,7 +121,7 @@ src="../English - December 2013.png">
 <div class="thumbnail">
 <img class="img-responsive" alt="Feb 2013 Magazine English" src="../stayconnect_2013Feb_en.png">
 <div class="caption">
-<h4>2013 Feburary Edition</h4>
+<h5>2013 Feburary Edition</h5>
 </div>
 </div>
 </div>
