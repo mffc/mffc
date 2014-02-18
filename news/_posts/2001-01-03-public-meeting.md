@@ -41,7 +41,7 @@ categories:
 </tr>
 <tr>
 <td>時間</td>
-<td>晚上六時正</td>
+<td>晚上七時至十時</td>
 <td>晚上七時半至九時半</td>
 </tr>
 <tr>
@@ -51,14 +51,19 @@ categories:
 </tr>
 <tr>
 <td>地點</td>
-<td>詳情留意本會網站</td>
+<td>新利班浸信會Sunnybank District Baptist Church</td>
 <td>西雪梨華人基督教會</td>
 </tr>
 <tr>
 <td>地址</td>
-<td></td>
+<td>127 Nemies Rd, Runcorn QLD 4113</td>
 <td>West Sydney Chinese Christian Church <br> 90 Homebush Road,
 Strathfield 2135</td>
+</tr>
+<tr>
+<td>查詢</td>
+<td>余漢英(Eric Yu)0421012065; Philip Yu 0411 505 219</td>
+<td>辦公室 02 9715 6923</td>
 </tr>
 </tbody></table>  
                     
@@ -93,7 +98,7 @@ Strathfield 2135</td>
 </tr>
 <tr>
 <td>時間</td>
-<td>晚上</td>
+<td>晚上七時至十時</td>
 <td>下午二時至四時</td>
 </tr>
 <tr>
@@ -103,24 +108,68 @@ Strathfield 2135</td>
 </tr>
 <tr>
 <td>地點</td>
-<td>詳情留意本會網站</td>
+<td>華人基督教會Chinese Christian Church</td>
 <td>中央浸信會Central Baptist Church</td>
 </tr>
 <tr>
 <td>地址</td>
-<td></td>
+<td>Cnr Beenleigh Rd & Sellhurst St, Coopers Plains   QLD 4108</td>
 <td>619 George Street, Haymarket 2000</td>
+</tr>
+<tr>
+<td>查詢</td>
+<td>余漢英(Eric Yu)0421012065; Philip Yu 0411 505 219</td>
+<td>辦公室 02 9715 6923</td>
 </tr>
 </tbody></table> 
   
-(三)夫婦公開講座座 - 流金歲月  
+(三)夫婦公開講座 - 流金歲月  
 -----------------------------
-* 手牽手重温戀愛、空巢生活更精采  
-省份：坎培拉  
-日期：4月29日〔星期二〕  
-時間：晚上  
-語言：待定  
-地點：詳情留意本會網站  
+* 手牽手重温戀愛、空巢生活更精采    
+
+<!--
+|省份|坎培拉|  
+|----|------|    
+|日期|4月30日〔星期三〕|    
+|時間|晚上七時半至九時半|    
+|語言|待定|    
+|地點|坎培拉澳亞基督教會|  
+|地址 | 36 Ringrose Crescent, Isaacs, ACT 2617 (next to Isaacs shops)|  
+|查詢  |  Pastor Joey Chou 0434 141 792   Mrs. Wendy Yu  0404-292 801 |      
+-->
+
+<table class="table"><thead>
+<tr>
+<th>省份</th>
+<th>坎培拉</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>日期</td>
+<td>4月30日〔星期三〕</td>
+</tr>
+<tr>
+<td>時間</td>
+<td>晚上七時半至九時半</td>
+</tr>
+<tr>
+<td>語言</td>
+<td>待定</td>
+</tr>
+<tr>
+<td>地點</td>
+<td>坎培拉澳亞基督教會</td>
+</tr>
+<tr>
+<td>地址</td>
+<td>36 Ringrose Crescent, Isaacs, ACT 2617 (next to Isaacs shops)</td>
+</tr>
+<tr>
+<td>查詢</td>
+<td>Pastor Joey Chou 0434 141 792;   Mrs. Wendy Yu  0404-292 801</td>
+</tr>
+</tbody></table>
+
   
 「承蒙莫慶堯博士基金贊助是次活動，免費入場，謹此致謝」  
   
