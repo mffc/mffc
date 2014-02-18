@@ -2,7 +2,7 @@
 <div class="panel-heading">
 <div class="panel-title">
 <a name="{{include.name}}" data-toggle="collapse" data-parent="#{{include.parent}}"
-href="#collapse{{include.name}}"><h2>{{include.title}}</h2></a>
+href="#collapse{{include.name}}">{{include.title}}</a>
 </div>
 </div>
 <div id="collapse{{include.name}}" class="collapse">
