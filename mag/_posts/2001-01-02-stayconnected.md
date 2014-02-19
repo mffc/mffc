@@ -36,6 +36,7 @@ categories:
 </div>
 <div id="collapse2013">
 <div class="panel-body">  
+<div>
 <a href="../Mffc 1312.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
@@ -51,16 +52,7 @@ categories:
 <img class="img-responsive" alt="December 2013 Magazine"
 src="../English - December 2013.png">
 <div class="caption">
-<h5>2013 December Edition</h5>
-</div></div>
-</div>
-</a>
-<a href="../English - September 2012.pdf">
-<div class="col-sm-6 col-md-3">
-<div class="thumbnail">
-<img class="img-responsive" alt="September 2013 Magazine" src="../English - September 2012.png">
-<div class="caption">
-<h5>2013 September Edition</h5>
+<h4>2013 December Edition</h4>
 </div></div>
 </div>
 </a>
@@ -73,6 +65,8 @@ src="../English - December 2013.png">
 </div></div>
 </div>
 </a>
+</div>
+<div>
 <a href="../stayconnect_July_2013.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
@@ -102,12 +96,14 @@ src="../English - December 2013.png">
 </div>
 </div>
 </a>
+</div>
+<div>
 <a href="../stayconnect_Apr_2013_en.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
 <img class="img-responsive" alt="April 2013 Magazine English" src="../stayconnect_2013Apr_en.png">
 <div class="caption">
-<h5>2013 April Edition</h5>
+<h4>2013 April Edition</h4>
 </div>
 </div>
 </div>
@@ -132,12 +128,14 @@ src="../English - December 2013.png">
 </div>
 </div>
 </a>
+</div>
+<div>
 <a href="../stayconnect_Feb_2013_en.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
 <img class="img-responsive" alt="Feb 2013 Magazine English" src="../stayconnect_2013Feb_en.png">
 <div class="caption">
-<h5>2013 Feburary Edition</h5>
+<h4>2013 Feburary Edition</h4>
 </div>
 </div>
 </div>
@@ -152,6 +150,7 @@ src="../English - December 2013.png">
 </div>
 </div>
 </a>
+</div>
 {{! End panel-body }}
 </div>
 </div> {{! End collapse}}
@@ -162,6 +161,7 @@ src="../English - December 2013.png">
 </div>
 <div id="collapse2012" class="collapse">
 <div class="panel-body">
+<div>
 <a href="../stayconnect_Dec_2012.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
@@ -176,10 +176,12 @@ src="../English - December 2013.png">
 <div class="thumbnail">
 <img class="img-responsive" alt="December 2012 Magazine English" src="../stayconnect_2012Dec_en.png">
 <div class="caption">
-<h5>2012 December Edition</h5>
+<h4>2012 December Edition</h4>
 </div></div>
 </div>
 </a>
+</div>
+<div>
 <a href="../stayconnect_Nov_2012.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
@@ -194,10 +196,12 @@ src="../English - December 2013.png">
 <div class="thumbnail">
 <img class="img-responsive" alt="November 2012 Magazine English" src="../stayconnect_2012Nov_en.png">
 <div class="caption">
-<h5>2012 November Edition</h5>
+<h4>2012 November Edition</h4>
 </div></div>
 </div>
 </a>
+</div>
+<div>
 <a href="../stayconnect_Sept_2012.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
@@ -216,6 +220,8 @@ src="../English - December 2013.png">
 </div></div>
 </div>
 </a>
+</div>
+<div>
 <a href="../stayconnect_July_2012.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
@@ -225,6 +231,7 @@ src="../English - December 2013.png">
 </div></div>
 </div>
 </a>
+</div>
 </div> {{! End panel-body}}
 </div> {{! End collapse}}
 </div> {{! End panel}}
