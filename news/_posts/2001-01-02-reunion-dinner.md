@@ -35,7 +35,8 @@ glyphicon-download-alt"></span>](../2014 May Cantonese Reunion Dinner Rego.pdf)
 時間 ：晚上六時正  
 地點 ：囍鳳臺 Rhodes Phoenix Chinese Restaurant  
 地址 ：Rhodes Shopping Centre, Level 5, 1 Rider Bvd., Rhodes NSW 2138  
-費用 :$45(4月8日前報名每位$38）  
-報名 ：請按此下載報名表格   
+費用 ：$45(4月8日前報名每位$38）  
+報名 ：[請按此下載報名表格 <span class="glyphicon
+glyphicon-download-alt"></span>](../Mandarin Dinner Rego.pdf)   
 查詢 ：辦公室 02 9715 6923  
 
