@@ -11,7 +11,6 @@ categories:
 ======================
 梁燕城博士2014年華、粵語公開聚會  
 ================================
-[<img class="img-responsive" src="../2014_MFFC Syd Poster.jpg">](../2014_MFFC Syd Poster.pdf)
   
 (一)親子公開講座 - 中西教養子女方法的融匯貫通    
 ---------------------------------------------
@@ -60,6 +59,13 @@ categories:
 <td>127 Nemies Rd, Runcorn QLD 4113</td>
 <td>West Sydney Chinese Christian Church <br> 90 Homebush Road,
 Strathfield 2135</td>
+</tr>
+<tr>
+<td>海報</td>
+<td></td>
+<td>
+<a href="../2014_MFFC Syd Poster.pdf"><span class="glyphicon glyphicon-download-alt"></span></a>
+</td>
 </tr>
 <tr>
 <td>查詢</td>
@@ -116,6 +122,13 @@ Strathfield 2135</td>
 <td>地址</td>
 <td>Cnr Beenleigh Rd & Sellhurst St, Coopers Plains   QLD 4108</td>
 <td>619 George Street, Haymarket 2000</td>
+</tr>
+<tr>
+<td>海報</td>
+<td></td>
+<td>
+<a href="../2014_MFFC Syd Poster.pdf"><span class="glyphicon glyphicon-download-alt"></span></a>
+</td>
 </tr>
 <tr>
 <td>查詢</td>

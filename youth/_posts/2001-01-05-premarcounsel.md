@@ -35,7 +35,7 @@ submenu-right:
 
 PREPARE/ENRICH(婚前/婚後評量及成長課程)是美國Life Innovations Inc.
 總裁Dr. David H.
-Olson在80年代發展的一套可靠、有效並且使用簡便的婚前/婚後輔導和成長工具，能全面地評量情侶/夫妻關係，能藉此幫助二人了解彼此關係中的強項和待成長之處，並透過與輔導員的面談和實際練習，作有效溝通及處理分歧。目前此機構在全球共有13個辦事處，超過二百萬對情侶/夫婦做過這套評量課程。欲知該機構資料及有關測驗請參閱[www.prepare-enrich.com](http://www.prepare-enrich.com)
+Olson在80年代發展的一套可靠、有效並且使用簡便的婚前/婚後輔導和成長工具，能全面地評量情侶/夫妻關係，能藉此幫助二人了解彼此關係中的強項和待成長之處，並透過與輔導員的面談和實際練習，作有效溝通及處理分歧。目前此機構在全球共有13個辦事處，超過二百萬對情侶/夫婦做過這套評量課程。欲知該機構資料及有關測驗請參閱[www.prepare-enrich.com ](http://www.prepare-enrich.com)
 
 內容: 
 
@@ -62,7 +62,7 @@ Olson在80年代發展的一套可靠、有效並且使用簡便的婚前/婚後
 --------
 費用: 每對$296, 另支付PREPARE/ENRICH測驗問卷費用$44, 合共$340
 
-[下載表格](../PreMaritalCounsellingApplicationForm_2013.pdf) 
+[下載表格 <span class="glyphicon glyphicon-download-alt"></span>](../PreMaritalCounsellingApplicationForm_2013.pdf) 
 
 請下載表格載表格，填妥後傳真至：(02) 9715 6924
 或寄往家新辦事處
@@ -72,7 +72,7 @@ Burwood NSW 1805
 Australia
 
 婚前輔導回顧及評量表
-[下載表格](../Pre_Marital_Feedback_Form_2013.pdf)
+[下載表格 <span class="glyphicon glyphicon-download-alt"></span>](../Pre_Marital_Feedback_Form_2013.pdf)
 　
 請下載表格，填妥後傳真至：(02) 9715 6924
 或寄往家新辦事處

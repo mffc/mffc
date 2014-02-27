@@ -9,6 +9,9 @@ body{
   font-family: "Microsoft JhengHei", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif
 }
 
+.panel-body { font-size: 150%;}
+p { font-size: 150%;}
+
 .center_row{
   min-height: 30em;
 }

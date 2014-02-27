@@ -39,8 +39,8 @@ submenu:
 <div class="panel-body">
 請下載<br>
 <p>
-<a href="../MaritalCounsellingServiceApplicationForm_Sydney_2013.pdf">報名表格</a><br>
-<a href="../MaritalCounsellingServiceFeedbackForm_2013.pdf">婚姻輔導回顧及評量表</a>   
+<a href="../MaritalCounsellingServiceApplicationForm_Sydney_2013.pdf">報名表格 <span class="glyphicon glyphicon-download-alt"></span></a><br>
+<a href="../MaritalCounsellingServiceFeedbackForm_2013.pdf">婚姻輔導回顧及評量表 <span class="glyphicon glyphicon-download-alt"></span></a>   
 <p>
 填妥後傳真至： (02) 9715 6924；或
 <p>
@@ -82,8 +82,8 @@ Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong
 <div class="panel-body">
 請下載<br>
 <p>
-<a href="../MaritalCounsellingServiceApplicationForm_BNE_2013.pdf">報名表格</a><br>
-<a href="../MaritalCounsellingServiceFeedbackForm_2013.pdf">婚姻輔導回顧及評量表</a>   
+<a href="../MaritalCounsellingServiceApplicationForm_BNE_2013.pdf">報名表格 <span class="glyphicon glyphicon-download-alt"></span></a><br>
+<a href="../MaritalCounsellingServiceFeedbackForm_2013.pdf">婚姻輔導回顧及評量表 <span class="glyphicon glyphicon-download-alt"></span></a>   
 <p>
 填妥後傳真至： (02) 9715 6924；或
 <p>

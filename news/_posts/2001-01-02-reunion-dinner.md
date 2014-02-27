@@ -13,8 +13,12 @@ categories:
 (一)省份：布里斯本 (華、粵語)  
 流金歲月  
 日期 ：4月27日〔星期日〕  
-時間 ：晚上  
-地點 ：詳情請稍後留意本會網站  
+時間 ：晚上六時正  
+地點 ：柏林酒楼Parkland Chinese Restaurant  
+地址 ：Shop 38, Sunnypark Shopping centre, Cnr Mains Rd & McCullough St, Sunnybank  
+費用 ：憑票入場  
+報名或查詢：余漢英(Eric Yu) 0421012065; Philip Yu 0411 505 219  
+
   
 (二)省份：悉尼 (粵語)  
 流金歲月  
