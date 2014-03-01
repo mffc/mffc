@@ -62,7 +62,9 @@ Strathfield 2135</td>
 </tr>
 <tr>
 <td>海報</td>
-<td></td>
+<td>
+<a href="../2014_MFFC Brisbane_Poster_V6.jpg"><span class="glyphicon glyphicon-download-alt"></span></a>
+</td>
 <td>
 <a href="../2014_MFFC Syd Poster.pdf"><span class="glyphicon glyphicon-download-alt"></span></a>
 </td>
@@ -125,7 +127,9 @@ Strathfield 2135</td>
 </tr>
 <tr>
 <td>海報</td>
-<td></td>
+<td>
+<a href="../2014_MFFC Brisbane_Poster_V6.jpg"><span class="glyphicon glyphicon-download-alt"></span></a>
+</td>
 <td>
 <a href="../2014_MFFC Syd Poster.pdf"><span class="glyphicon glyphicon-download-alt"></span></a>
 </td>
@@ -177,6 +181,12 @@ Strathfield 2135</td>
 <tr>
 <td>地址</td>
 <td>36 Ringrose Crescent, Isaacs, ACT 2617 (next to Isaacs shops)</td>
+</tr>
+<tr>
+<td>海報</td>
+<td>
+<a href="../CPB1404.jpg"><span class="glyphicon glyphicon-download-alt"></span></a>
+</td>
 </tr>
 <tr>
 <td>查詢</td>
