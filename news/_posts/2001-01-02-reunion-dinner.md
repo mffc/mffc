@@ -39,7 +39,7 @@ glyphicon-download-alt"></span>](../2014 May Cantonese Reunion Dinner Rego.pdf)
 (三)省份：悉尼 (華語)  
 堅守婚姻的盟約  
 日期 ：5月4日〔星期日〕  
-時間 ：晚上六時正  
+時間 ：晚上六時三十分  
 地點 ：囍鳳臺 Rhodes Phoenix Chinese Restaurant  
 地址 ：Rhodes Shopping Centre, Level 5, 1 Rider Bvd., Rhodes NSW 2138  
 費用 ：$45(4月8日前報名每位$38）  
