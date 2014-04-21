@@ -7,11 +7,23 @@ $("#contact_form").submit(function(event){
   var email = $(this).find("#inputemail").val();
   var church = $(this).find("#inputchurch").val();
   var question = $(this).find("#inputquestion").val();
-  
-  $.post("process.php", {name: name, phone: phone, email: email, church: church, question: question})
-    .done( function(data) {
-      alert ("done");
-    });
+
+  $.post("../process.php", {name: name, phone: phone, email: email, church: church, question: question})
+  .done( function(data) {
+
+    $('#contact_form_status').html("<div class='alert alert-success'>");
+    $('#contact_form_status > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+    .append( "</button>");
+    $('#contact_form_status > .alert-success')
+    .append("<strong>提交成功!</strong>我們會盡快聯絡您。 ");
+    $('#contact_form_status > .alert-success')
+    .append('</div>');
+
+    //clear
+    //all
+    //fields
+    $('#contact_form').trigger("reset");
+  });
 
 });
 

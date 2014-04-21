@@ -7,5 +7,5 @@ $church = stripslashes($church);
 $question = stripslashes($question);
 mail('info@mffc.org.au',"question from website","A message from $name ($church, $phone) has been received as follows: 
 
-$others","From: $name <$email>");
+$question","From: $name <$email>");
 ?>
