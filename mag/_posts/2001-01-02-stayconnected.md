@@ -21,9 +21,18 @@ categories:
 <a href="../stayconnect_Jan_2014.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
-<img class="img-responsive" alt="December 2013 Magazine" src="../stayconnect_Jan_2014.jpg">
+<img class="img-responsive" alt="2014年1月號 Magazine" src="../stayconnect_Jan_2014.jpg">
 <div class="caption">
 <h4>2014年1月號</h4>
+</div></div>
+</div>
+</a>
+<a href="../stayconnect_May_2014.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="2014年5月號 Magazine" src="../stayconnect_May_2014_small.jpg">
+<div class="caption">
+<h4>2014年5月號</h4>
 </div></div>
 </div>
 </a>
