@@ -97,7 +97,7 @@ Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong
 韓林麗貞(Connie Hon)<br>
 
 Christian Counsellor and Family Therapist<br>
-MA(TESOL), BA ( Ed),  Adv.Dip Counselling & Family Therapy <br>
+MA(TESOL), BA ( Ed),  Postgraduate Certificate in Counselling & Family Therapy <br>
  ( Australian
 Institute of Family Counselling)
  
