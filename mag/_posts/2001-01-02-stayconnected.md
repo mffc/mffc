@@ -21,7 +21,7 @@ categories:
 <a href="../stayconnect_Jan_2014.pdf">
 <div class="col-sm-6 col-md-3">
 <div class="thumbnail">
-<img class="img-responsive" alt="2014年1月號 Magazine" src="../stayconnect_Jan_2014.jpg">
+<img class="img-responsive" alt="2014年1月號 Magazine" src="../stayconnect_Jan_2014_small.jpg">
 <div class="caption">
 <h4>2014年1月號</h4>
 </div></div>
@@ -51,6 +51,33 @@ categories:
 <img class="img-responsive" alt="May 2014 Magazine English" src="../stayconnect_May_2014_en_small.jpg">
 <div class="caption">
 <h4>2014 May Edition</h4>
+</div></div>
+</div>
+</a>
+<a href="../stayconnect_Jul_2014.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="2014年7月號 Magazine" src="../stayconnect_Jul_2014_small.jpg">
+<div class="caption">
+<h4>2014年7月號</h4>
+</div></div>
+</div>
+</a>
+<a href="../stayconnect_Sep_2014.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="2014年9月號 Magazine" src="../stayconnect_Sep_2014_small.jpg">
+<div class="caption">
+<h4>2014年9月號</h4>
+</div></div>
+</div>
+</a>
+<a href="../stayconnect_Sep_2014_en.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="May 2014 Magazine English" src="../stayconnect_Sep_2014_en_small.jpg">
+<div class="caption">
+<h4>2014 Sep Edition</h4>
 </div></div>
 </div>
 </a>
