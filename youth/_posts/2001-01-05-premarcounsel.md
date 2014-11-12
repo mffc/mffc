@@ -11,7 +11,7 @@ submenu:
   - {hook: "register", title: "報名方法"}
   - {hook: "profile", title: "輔導員履歷"}
 submenu-right:
-  <a href="../PreMaritalCounsellingApplicationForm_2013.pdf" class="thumbnail"><img src="../2011_Pre-marital_Counselling_Poster_Small.jpg"><div class="caption"><h4 class="text-center">報名表格</h4></div></a>
+  <a href="../PreMaritalCounsellingApplicationForm.pdf" class="thumbnail"><img src="../2011_Pre-marital_Counselling_Poster_Small.jpg"><div class="caption"><h4 class="text-center">報名表格</h4></div></a>
 ---
 婚前評量及輔導服務
 ==================
@@ -62,7 +62,7 @@ Olson在80年代發展的一套可靠、有效並且使用簡便的婚前/婚後
 --------
 費用: 每對$296, 另支付PREPARE/ENRICH測驗問卷費用$44, 合共$340
 
-[下載表格 <span class="glyphicon glyphicon-download-alt"></span>](../PreMaritalCounsellingApplicationForm_2013.pdf) 
+[下載表格 <span class="glyphicon glyphicon-download-alt"></span>](../PreMaritalCounsellingApplicationForm.pdf) 
 
 請下載表格載表格，填妥後傳真至：(02) 9715 6924
 或寄往家新辦事處
@@ -72,7 +72,7 @@ Burwood NSW 1805
 Australia
 
 婚前輔導回顧及評量表
-[下載表格 <span class="glyphicon glyphicon-download-alt"></span>](../Pre_Marital_Feedback_Form_2013.pdf)
+[下載表格 <span class="glyphicon glyphicon-download-alt"></span>](../Pre_Marital_Feedback_Form.pdf)
 　
 請下載表格，填妥後傳真至：(02) 9715 6924
 或寄往家新辦事處
