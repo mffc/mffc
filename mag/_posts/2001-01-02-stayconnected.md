@@ -7,8 +7,10 @@ categories:
   - mag
 ---
 
-“家新伴你行” E-Reading電子文章已經順利發行了!
+歡迎覽閲 “家新伴你行” E-Reading電子文章
 =============================================
+(本刊所有文章、照片及插圖均保留版權。未經本刊書面許可，不得以任何形式轉載及翻印。 本刊文章由作者自負文責，其立論未必與本機構及本刊一致。)
+
 <!-- IF ENGLISH USE H5, OTHERWISE USE H4 -->
 <div class="row">
 <div class="panel-group " id="mag-panel">
