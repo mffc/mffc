@@ -38,6 +38,24 @@ categories:
 </div></div>
 </div>
 </a>
+<a href="../stayconnect_May_2015.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="2015年5月號 Magazine" src="../stayconnect_May_2015_small.jpg">
+<div class="caption">
+<h4>2015年5月號</h4>
+</div></div>
+</div>
+</a>
+<a href="../stayconnect_May_2015_en.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="May 2015 Magazine English" src="../stayconnect_May_2015_en_small.jpg">
+<div class="caption">
+<h4>2015 May Edition</h4>
+</div></div>
+</div>
+</a>
 </div> {{! End panel-body}}
 </div> {{! End collapse}}
 </div> {{! End panel}}
