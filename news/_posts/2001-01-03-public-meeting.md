@@ -103,7 +103,7 @@ href="#adeliadeinfo"><h2>亞特雷</h2></a>
 聯絡查詢: Peter Tam  0412 888 828 或 [www.mffc.org.au](http://www.mffc.org.au).
 <br>
 下載海報
-[<span class="glyphicon glyphicon-picture"></span>](../2015_MFFC_Adalaide_Poster.jpg)<br>
+[<span class="glyphicon glyphicon-picture"></span>](../2015_MFFC_Adelaide_Poster.jpg)<br>
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
@@ -168,7 +168,87 @@ href="#perthinfo"><h2>柏斯</h2></a>
 </div>
 <div id="perthinfo" class="collapse">
 <div class="panel-body">
-2015年:詳情容後公佈。
+澳洲家庭更新協會25週年慶典
+=============================
+(澳洲家庭更新協會主辦&nbsp; 西澳華福會協辦)
+--------------------------------------------
+主題: 美滿婚姻秘笈
+--------------------
+嘉賓講員：莫江庭博士 (資深教會牧者並婚姻輔導工作者)
+--------------------------------------------------------
+莫江庭博士簡介:
+<small>
+<ul>
+<li>香港專業輔導人員協會認可督導及認證輔導員</li>
+<li>香港浸信會神學院道學碩士</li>
+<li>美國南科他州州立大學（輔導學）教育碩士</li>
+<li>美國貝勒大學教育心理學教育博士（主修輔導心理學）</li>
+<li>曾任香港浸信會神學院實用神學助理教授</li>
+<li>現任香港愛群道浸信會主任牧師</li>
+<li>現任香港浸信會聯會會長</li>
+</ul>
+</small>
+
+<br>
+公開講座1 (華粵語)<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">日期:</td>
+      <td>9月4日(星期五)</td>
+    </tr>
+    <tr>
+      <td>時間:</td>
+      <td>晚上七時半</td>
+    </tr>
+    <tr>
+      <td>講題：</td>
+      <td>美滿婚姻秘笈 (建立良好婚姻元素排序的再思)</td>
+    </tr>
+	<tr>
+      <td>地點：</td>
+      <td>柏斯宣道會 (南堂) 324 Belmont Ave, Cloverdale WA</td>
+    </tr>
+    <tr>
+      <td>費用：</td>
+      <td>免費</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+公開講座2 (華粵語)<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">日期:</td>
+      <td>9月5日(星期六)</td>
+    </tr>
+    <tr>
+      <td>時間:</td>
+      <td>晚上七時半</td>
+    </tr>
+    <tr>
+      <td>講題：</td>
+      <td>美滿婚姻秘笈 (建立良好婚姻元素排序的聖經基礎)</td>
+    </tr>
+	<tr>
+      <td>地點：</td>
+      <td>珀斯中華基督教會 (河南堂) 9 Gedling Close, Parkwood WA</td>
+    </tr>
+    <tr>
+      <td>費用：</td>
+      <td>免費</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+聯絡查詢: Jimmy Tong  0409 883 880, Daniel Man 0411 810 278  或 [www.mffc.org.au](http://www.mffc.org.au).
+<br>
+下載海報
+[<span class="glyphicon glyphicon-picture"></span>](../2015_MFFC_Perth_Poster.jpg)<br>
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
