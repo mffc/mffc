@@ -155,7 +155,7 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
 </div>
 <div id="sydneyinfo" class="collapse">
 <div class="panel-body">
-2015年:詳情容後公佈。
+2016年:詳情容後公佈。
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
