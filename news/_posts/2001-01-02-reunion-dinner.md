@@ -26,57 +26,7 @@ href="#adeliadeinfo"><h2>亞特雷</h2></a>
 </div>
 <div id="adeliadeinfo" class="collapse">
 <div class="panel-body">
-澳洲家庭更新協會25週年感恩活動
-==================================
-專題講員：莫江庭博士 (資深教會牧者並婚姻輔導工作者)
---------------------------------------------------------
-主題: 美滿婚姻秘笈
---------------------
-莫江庭博士簡介:
-<small>
-<ul>
-<li>香港專業輔導人員協會認可督導及認證輔導員</li>
-<li>香港浸信會神學院道學碩士</li>
-<li>美國南科他州州立大學（輔導學）教育碩士</li>
-<li>美國貝勒大學教育心理學教育博士（主修輔導心理學）</li>
-<li>曾任香港浸信會神學院實用神學助理教授</li>
-<li>現任香港愛群道浸信會主任牧師</li>
-<li>現任香港浸信會聯會會長</li>
-</ul>
-</small>
-
-<br>
-感恩慶祝晚宴 (國、粵語)
-<table style="text-align: left; width: 100%;" border="1"
- cellpadding="5" cellspacing="0">
-  <tbody>
-    <tr>
-      <td style="width: 15%;">日期:</td>
-      <td>8月28日(星期五)</td>
-    </tr>
-    <tr>
-      <td>時間:</td>
-      <td>六時恭候, 六時半入席</td>
-    </tr>
-    <tr>
-      <td>講題：</td>
-      <td>建立良好婚姻的聖經教導</td>
-    </tr>
-	<tr>
-      <td>地點：</td>
-      <td>一品軒海鮮酒家 401 King Street, Adelaide SA 5000</td>
-    </tr>
-    <tr>
-      <td>費用：</td>
-      <td>$90 每對夫埽 或 $45 每位</td>
-    </tr>
-  </tbody>
-</table>
-<br>
-聯絡查詢: Peter Tam  0412 888 828 或 [www.mffc.org.au](http://www.mffc.org.au).
-<br>
-下載海報
-[<span class="glyphicon glyphicon-picture"></span>](../2015_MFFC_Adelaide_Poster.jpg)<br>
+2016年:詳情容後公佈。
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
@@ -141,64 +91,7 @@ href="#perthinfo"><h2>柏斯</h2></a>
 </div>
 <div id="perthinfo" class="collapse">
 <div class="panel-body">
-澳洲家庭更新協會25週年慶典
-=============================
-(澳洲家庭更新協會主辦&nbsp;  西澳華福會協辦)
--------------------------------------------------
-主題: 美滿婚姻秘笈
---------------------
-嘉賓講員：莫江庭博士 (資深教會牧者並婚姻輔導工作者)
---------------------------------------------------------
-
-莫江庭博士簡介:
-<small>
-<ul>
-<li>香港專業輔導人員協會認可督導及認證輔導員</li>
-<li>香港浸信會神學院道學碩士</li>
-<li>美國南科他州州立大學（輔導學）教育碩士</li>
-<li>美國貝勒大學教育心理學教育博士（主修輔導心理學）</li>
-<li>曾任香港浸信會神學院實用神學助理教授</li>
-<li>現任香港愛群道浸信會主任牧師</li>
-<li>現任香港浸信會聯會會長</li>
-</ul>
-</small>
-
-<br>
-感恩慶祝晚宴
-<table style="text-align: left; width: 100%;" border="1"
- cellpadding="5" cellspacing="0">
-  <tbody>
-    <tr>
-      <td style="width: 15%;">日期:</td>
-      <td>9月2日(星期三)</td>
-    </tr>
-    <tr>
-      <td>時間:</td>
-      <td>六時三十分</td>
-    </tr>
-    <tr>
-      <td>講題：</td>
-      <td>美滿婚姻秘笈 (建立良好婚姻的聖經教導)</td>
-    </tr>
-	<tr>
-      <td>地點：</td>
-      <td>Air Force Association Club (Air Force Memorial Estate, Bull Creek Drive, Bull Creek WA)</td>
-    </tr>
-    <tr>
-      <td>費用：</td>
-      <td>每對夫婦$90  或 每位$45 (西式晚餐)</td>
-    </tr>
-	<tr>
-      <td>報名：</td>
-      <td>請向各家新使者報名及繳費</td>
-    </tr>
-  </tbody>
-</table>
-<br>
-聯絡查詢: Jimmy Tong  0409 883 880, Daniel Man 0411 810 278 或 [www.mffc.org.au](http://www.mffc.org.au).
-<br>
-下載海報
-[<span class="glyphicon glyphicon-picture"></span>](../2015_MFFC_Perth_Poster.jpg)<br>
+2016年:詳情容後公佈。
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
