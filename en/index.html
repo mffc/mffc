@@ -12,12 +12,17 @@ categories:
       <div style="margin:1em" >
         <div class="black_frame">
                     <div class="label label-success">{{ t.[page.lang].side_menu.whats_new }}</div>
+		<!--
           <ul class="list-unstyled">
           {% for page in site.categories.[page.lang] limit:5 %}
           <li><a href="{{site.baseurl}}{{ page.url}}">{{page.title}}</a></li>
             {% endfor %}
           </ul>
-
+		-->
+		  <li><a href="{{site.baseurl}}/{{page.lang}}/mag/stayconnected/">Stay Connected</a></li>
+          <li><a href="{{site.baseurl}}/{{page.lang}}/mer/mer/">Marriage Retreat</a></li>
+          <li><a href="{{site.baseurl}}/{{page.lang}}/about/support/">Support Us</a></li>
+          <li><a href="{{site.baseurl}}/{{page.lang}}/mag/ausmag/">OZ Mail</a></li>
         </div>
       </div>
     </div>
@@ -26,7 +31,10 @@ categories:
         <div class="white_frame">
           <div style="margin : 5%">
             <a href="{{site.baseurl}}/en/mer/" class="thumbnail">
-              <img src="{{site.baseurl}}/images/mainLeft.jpg" class="img-responsive">
+			<!--
+              <img src="images/mainLeft.jpg" class="img-responsive">
+			-->
+			  <img src="{{site.baseurl}}/images/Holding_hands.jpg" class="img-responsive">
               <div class="caption">
                 <h3 class="text-center">Marriage Enrichment Retreat</h3>
               </div>
@@ -39,7 +47,7 @@ categories:
       <div style="margin:1em" class="white_frame">
         <div style="margin:5%">
           <a href="{{site.baseurl}}/en/youth/" class="thumbnail">
-            <img src="{{site.baseurl}}/images/mainCenter.png">
+            <img src="{{site.baseurl}}/images/Premarital_&_Youth_Ministry2.jpg">
             <div class="caption">
               <h4 class="text-center">Youth Ministry</h4>
             </div>
@@ -63,7 +71,7 @@ categories:
     </div>
     <div class="col-lg-2 visible-lg">
       <div style="margin:1em" >
-        <div class="black_frame"><img src="{{site.baseurl}}/images/20130810.gif" class="img-responsive"></img></div>
+        <div class="black_frame"><a href="{{site.baseurl}}/{{page.lang}}/mer/mer/"><img src="{{site.baseurl}}/images/20130810.gif" class="img-responsive"></img></a></div>
       </div>
     </div>
   </div>
