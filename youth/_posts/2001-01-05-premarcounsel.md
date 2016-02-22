@@ -143,6 +143,36 @@ P.O. Box 587, Parramatta, NSW 2124 Australia
     </tr>
   </tbody>
 </table>
+<br>
+梁于衡(Ben Leung)<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">語言:</td>
+      <td>普通話, 廣東話及英語</td>
+    </tr>
+    <tr>
+      <td>性別:</td>
+      <td>男</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2">專業會籍:</td>
+      <td>基督教輔導員專業協會會員Member of Christian Counsellors Association of Australia</td>
+    </tr>
+	<tr>
+		<td>澳洲性教育人員,研究員及治療師專業協會會員Member of Australian Society of Sex Educators, Researchers and Therapists</td>
+	</tr>
+    <tr>
+      <td>履歷:</td>
+      <td>輔導學碩士, 浸信會神學院Master of Counselling, Morling College</td>
+    </tr>
+    <tr>
+      <td>專長:</td>
+      <td>婚姻輔導、夫妻性健康輔導</td>
+    </tr>
+  </tbody>
+</table>
 
 
 </div>

@@ -112,6 +112,35 @@ Iris Yip<br>
   </tbody>
 </table>
 <br>
+Ben Leung<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">Language:</td>
+      <td>Mandarin/Cantonese/English</td>
+    </tr>
+    <tr>
+      <td>Gender:</td>
+      <td>Male</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2">Professional Membership:</td>
+      <td>Member of Christian Counsellors Association of Australia</td>
+    </tr>
+	<tr>
+		<td>Member of Australian Society of Sex Educators, Researchers and Therapists</td>
+	</tr>
+    <tr>
+      <td>Curriculum Vitae:</td>
+      <td>Master of Counselling, Morling College</td>
+    </tr>
+    <tr>
+      <td>Specialty:</td>
+      <td>Marital Counselling, Marital Sexual Health Counselling</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 </div>
 
