@@ -122,6 +122,8 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
 報名或查詢:  (02) 9715 6923 或 www.mffc.org.au <br>    
 下載海報
 [<span class="glyphicon glyphicon-picture"></span>](../SPC1604.jpg) <br>  
+下載報名表
+[<span class="glyphicon glyphicon-download-alt"></span>](../2016 May Cantonese Reunion Dinner Rego.pdf) 
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
