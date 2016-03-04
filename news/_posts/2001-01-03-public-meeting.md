@@ -183,7 +183,47 @@ href="#melbourneinfo"><h2>墨爾本</h2></a>
 </div>
 <div id="melbourneinfo" class="collapse">
 <div class="panel-body">
-2016年:詳情容後公佈。
+邱清泰博士墨爾本<span style="text-decoration: underline;" >國語</span>公開聚會
+==================================
+講員簡介:
+<br>
+<small><span style="font-weight: bold;" >邱清泰博士</span> - 現任「國際家庭更新協會」總會會長,美國加州州政府檢定「婚姻、家庭、兒童心理治療師」執照;曾任台灣「東海大學」幸褔家庭中心婚姻家庭顧問,美國「中國信徒佈道會」心理輔導部主任,美國三藩巿「中信心理輔導中心」主任。</small>
+<br>
+<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 12%;"><span style="font-weight: bold;" >專題:</span></td>
+      <td><span style="font-weight: bold;" >心法與劍法</span></td>
+    </tr>
+    <tr>
+      <td>日期:</td>
+      <td>2016年4月22日〔星期五〕</td>
+    </tr>
+    <tr>
+      <td>時間:</td>
+      <td>晚上七時卅分</td>
+    </tr>
+    <tr>
+      <td>地點:</td>
+      <td>墨尔本华人浸信会<br>
+		75A Cotham Road, Kew VIC 3101
+	  </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+電話查詢: <br>
+&nbsp;&nbsp;Rev Daniel Wong 王偉強牧師 Tel No: 0433 553 777 <br>
+&nbsp;&nbsp;或 Imelda Leung 梁美玉姊妹 Tel No: 0438 819 005 <br>
+&nbsp;&nbsp;或 湯華燊先生(San Thang) 0438 178 338 <br>
+&nbsp;&nbsp;或 www.mffc.org.au <br>
+<br>
+下載海報
+[<span class="glyphicon glyphicon-picture"></span>](../Dr_Chiu_Melb_PM_Poster_LR.jpg) <br>          
+（公開講座聚會: 免費入場，自由奉獻）
+
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
@@ -196,7 +236,46 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
 </div>
 <div id="sydneyinfo" class="collapse">
 <div class="panel-body">
-屈偉豪博士夫婦雪梨粵語公開聚會
+邱清泰博士雪梨<span style="text-decoration: underline;" >國語</span>公開聚會
+==================================
+講員簡介:
+<br>
+<small><span style="font-weight: bold;" >邱清泰博士</span> - 現任「國際家庭更新協會」總會會長,美國加州州政府檢定「婚姻、家庭、兒童心理治療師」執照;曾任台灣「東海大學」幸褔家庭中心婚姻家庭顧問,美國「中國信徒佈道會」心理輔導部主任,美國三藩巿「中信心理輔導中心」主任。</small>
+<br>
+<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 12%;"><span style="font-weight: bold;" >專題:</span></td>
+      <td><span style="font-weight: bold;" >心法與劍法</span></td>
+    </tr>
+    <tr>
+      <td>日期:</td>
+      <td>2016年4月16日〔星期六〕</td>
+    </tr>
+    <tr>
+      <td>時間:</td>
+      <td>晚上七時卅分</td>
+    </tr>
+    <tr>
+      <td>地點:</td>
+      <td>西雪梨華人基督教會<br>
+		90 Homebush Road, Strathfield, NSW 2135
+	  </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+查詢:  (02) 9715 6923 或 www.mffc.org.au
+<br>
+下載海報
+[<span class="glyphicon glyphicon-picture"></span>](../Dr_Chiu_2016_PM_Poster_LR.jpg) <br>          
+（公開講座聚會: 免費入場，自由奉獻）
+<br>
+<br>
+
+屈偉豪博士夫婦雪梨<span style="text-decoration: underline;" >粵語</span>公開聚會
 ==================================
 講員簡介:
 <br>
