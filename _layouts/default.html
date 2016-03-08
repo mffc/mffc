@@ -29,10 +29,10 @@
         <div class="btn-group btn-group-sm">
           <!-- the following are buttons to switch between Chinese and English website-->
           {% if page.lang == 'zh-hk' %}
-          <a href="{{site.baseurl}}/en{{page.url}}" class="btn btn-success">En</a>
+          <a href="{{site.baseurl}}/en{{page.url}}" class="btn btn-success">English</a>
           {% endif %}
           {% if page.lang == 'en' %}
-          <a href="{{site.baseurl}}{{page.url | replace: '/en', ''}}" class="btn btn-success">中</a>
+          <a href="{{site.baseurl}}{{page.url | replace: '/en', ''}}" class="btn btn-success">中文</a>
           {% endif %}
           
           </div>
