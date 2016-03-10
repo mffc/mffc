@@ -183,7 +183,7 @@ href="#melbourneinfo"><h2>墨爾本</h2></a>
 </div>
 <div id="melbourneinfo" class="collapse">
 <div class="panel-body">
-邱清泰博士墨爾本<span style="text-decoration: underline;" >國語</span>公開聚會
+邱清泰博士墨爾本<span style="text-decoration: underline;" >普通話</span>公開聚會
 ==================================
 講員簡介:
 <br>
