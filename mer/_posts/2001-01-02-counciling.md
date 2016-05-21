@@ -39,8 +39,8 @@ submenu:
 <div class="panel-body">
 請下載<br>
 <p>
-<a href="../MaritalCounsellingServiceApplicationForm_Sydney_2013.pdf">報名表格 <span class="glyphicon glyphicon-download-alt"></span></a><br>
-<a href="../MaritalCounsellingServiceFeedbackForm_2013.pdf">婚姻輔導回顧及評量表 <span class="glyphicon glyphicon-download-alt"></span></a>   
+<a href="../MaritalCounsellingServiceApplicationForm_Sydney.pdf">報名表格 <span class="glyphicon glyphicon-download-alt"></span></a><br>
+<a href="../MaritalCounsellingServiceFeedbackForm.pdf">婚姻輔導回顧及評量表 <span class="glyphicon glyphicon-download-alt"></span></a>   
 <p>
 填妥後傳真至： (02) 9715 6924；或
 <p>
@@ -48,28 +48,100 @@ submenu:
 </p>
 </p>
 寄往家新辦事處:<br>
-P.O. Box 313, BURWOOD<br>
-NSW 1805, Australia<br>
+P.O. Box 587, Parramatta<br>
+NSW 2124, Australia<br>
 <hr>
 
 <h4>輔導員履歷</h4>
 周天駇(Anselm Chow)<br>
-
-專業心理輔導員Professional psychological counsellor
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">語言:</td>
+      <td>普通話, 廣東話及英語</td>
+    </tr>
+    <tr>
+      <td>性別:</td>
+      <td>男</td>
+    </tr>
+    <tr>
+      <td>專業會籍:</td>
+      <td>美國心理輔導會專業會員 Professional member of American Counselling Association</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="3">履歷:</td>
+      <td>前香港浸會大學高級心理輔導主任 Former senior psychological counsellor, Hong Kong Baptist University</td>
+    </tr>
+    <tr>
+      <td>前香港浸會大學持續進修學院輔導課程、香港伯特利神學院輔導課程客席講師 Former lecturer(part time) of counselling courses, Hong Kong Baptist University and Bethel Bible Seminary of Hong Kong</td>
+    </tr>
+    <tr>
+      <td>前香港突破機構輔導中心、香港伯特利神學院輔導中心顧問 Former advisor of Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong</td>
+    </tr>
+    <tr>
+      <td>專長:</td>
+      <td>婚姻輔導、婚前輔導、心理輔導及治療</td>
+    </tr>
+  </tbody>
+</table>
 <br>
-美國心理輔導會專業會員 Professional member of American Counselling
-Association
+葉小燕(Iris Yip)<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">語言:</td>
+      <td>廣東話及英語</td>
+    </tr>
+    <tr>
+      <td>性別:</td>
+      <td>女</td>
+    </tr>
+    <tr>
+      <td>專業會籍:</td>
+      <td>新南威爾斯省輔導員及心理治療師專業協會會員 Member of Counsellors & Psychotherapists Association of NSW </td>
+    </tr>
+    <tr>
+      <td>履歷:</td>
+      <td>輔導學碩士, 浸信會神學院 Master of Counselling, Morling College</td>
+    </tr>
+    <tr>
+      <td>專長:</td>
+      <td>婚姻輔導、婚前輔導</td>
+    </tr>
+  </tbody>
+</table>
 <br>
-前香港浸會大學高級心理輔導主任 Former senior psychological counsellor,
-Hong Kong Baptist University
-<br>
-前香港浸會大學持續進修學院輔導課程、香港伯特利神學院輔導課程客席講師
-Former lecturer(part time) of counselling courses, Hong Kong Baptist
-University and Bethel Bible Seminary of Hong Kong
-<br>
-前香港突破機構輔導中心、香港伯特利神學院輔導中心顧問 Former advisor of
-Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong
-<br>
+梁于衡(Ben Leung)<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">語言:</td>
+      <td>普通話, 廣東話及英語</td>
+    </tr>
+    <tr>
+      <td>性別:</td>
+      <td>男</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2">專業會籍:</td>
+      <td>基督教輔導員專業協會會員Member of Christian Counsellors Association of Australia</td>
+    </tr>
+	<tr>
+		<td>澳洲性教育人員,研究員及治療師專業協會會員Member of Australian Society of Sex Educators, Researchers and Therapists</td>
+	</tr>
+    <tr>
+      <td>履歷:</td>
+      <td>輔導學碩士, 浸信會神學院Master of Counselling, Morling College</td>
+    </tr>
+    <tr>
+      <td>專長:</td>
+      <td>婚姻輔導、夫妻性健康輔導</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 </div>
@@ -82,8 +154,8 @@ Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong
 <div class="panel-body">
 請下載<br>
 <p>
-<a href="../MaritalCounsellingServiceApplicationForm_BNE_2013.pdf">報名表格 <span class="glyphicon glyphicon-download-alt"></span></a><br>
-<a href="../MaritalCounsellingServiceFeedbackForm_2013.pdf">婚姻輔導回顧及評量表 <span class="glyphicon glyphicon-download-alt"></span></a>   
+<a href="../MaritalCounsellingServiceApplicationForm_BNE.pdf">報名表格 <span class="glyphicon glyphicon-download-alt"></span></a><br>
+<a href="../MaritalCounsellingServiceFeedbackForm.pdf">婚姻輔導回顧及評量表 <span class="glyphicon glyphicon-download-alt"></span></a>   
 <p>
 填妥後傳真至： (02) 9715 6924；或
 <p>
@@ -95,11 +167,31 @@ Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong
 <hr>
 <h4>輔導員履歷</h4>
 韓林麗貞(Connie Hon)<br>
-
-Christian Counsellor and Family Therapist<br>
-MA(TESOL), BA ( Ed),  Adv.Dip Counselling & Family Therapy <br>
- ( Australian
-Institute of Family Counselling)
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">語言:</td>
+      <td>普通話 廣東話及英語</td>
+    </tr>
+    <tr>
+      <td>性別:</td>
+      <td>女</td>
+    </tr>
+    <tr>
+      <td>專業會籍:</td>
+      <td>基督教輔導員專業協會會員Member of Christian Counsellors Association of Australia</td>
+    </tr>
+    <tr>
+      <td>履歷:</td>
+      <td>MA(TESOL), BA ( Ed), Postgraduate Certificate in Counselling & Family Therapy ( Australian Institute of Family Counselling)</td>
+    </tr>
+    <tr>
+      <td>專長:</td>
+      <td>婚姻輔導、婚前輔導、家庭治療</td>
+    </tr>
+  </tbody>
+</table>
  
 
 </div>

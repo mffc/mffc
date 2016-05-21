@@ -15,21 +15,26 @@
 <body>
 <div class="container">
 <div class="row logo_row">
-  <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-3 warning">
-    <a href="/">
+  <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-3 warning">   
+	  {% if page.lang == 'zh-hk' %}
+		<a href="/">
+	  {% endif %}
+	  {% if page.lang == 'en' %}
+		<a href="/en">
+	  {% endif %}
       <div class="row">
         <div class="col-xs-2 col-sm-2 col-md-3 logo"></div>
         <div class="col-sm-8 col-xs-7 col-md-6 text-center white_frame"><h1><b>{{ t.[page.lang].logo.name }}</b></h1><h4><i>{{ t.[page.lang].logo.slogan }}</i></h4></div>
         <div class="col-xs-2 col-sm-2 col-md-3 "></div>
         <div class="btn-group btn-group-sm">
-          <!--
+          <!-- the following are buttons to switch between Chinese and English website-->
           {% if page.lang == 'zh-hk' %}
-          <a href="{{site.baseurl}}/en{{page.url}}" class="btn btn-success">En</a>
+          <a href="{{site.baseurl}}/en{{page.url}}" class="btn btn-success">English</a>
           {% endif %}
           {% if page.lang == 'en' %}
-          <a href="{{site.baseurl}}{{page.url | replace: '/en', ''}}" class="btn btn-success">中</a>
+          <a href="{{site.baseurl}}{{page.url | replace: '/en', ''}}" class="btn btn-success">中文</a>
           {% endif %}
-          -->
+          
           </div>
           </div>
         </a>
