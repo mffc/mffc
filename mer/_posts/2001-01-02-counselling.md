@@ -67,17 +67,17 @@ NSW 2124, Australia<br>
     </tr>
     <tr>
       <td>專業會籍:</td>
-      <td>美國心理輔導會專業會員 Professional member of American Counselling Association</td>
+      <td>美國心理輔導會專業會員 </td>
     </tr>
     <tr>
       <td colspan="1" rowspan="3">履歷:</td>
-      <td>前香港浸會大學高級心理輔導主任 Former senior psychological counsellor, Hong Kong Baptist University</td>
+      <td>前香港浸會大學高級心理輔導主任 </td>
     </tr>
     <tr>
-      <td>前香港浸會大學持續進修學院輔導課程、香港伯特利神學院輔導課程客席講師 Former lecturer(part time) of counselling courses, Hong Kong Baptist University and Bethel Bible Seminary of Hong Kong</td>
+      <td>前香港浸會大學持續進修學院輔導課程、香港伯特利神學院輔導課程客席講師 </td>
     </tr>
     <tr>
-      <td>前香港突破機構輔導中心、香港伯特利神學院輔導中心顧問 Former advisor of Breakthrough Counselling Center and Bethel Counselling Center, Hong Kong</td>
+      <td>前香港突破機構輔導中心、香港伯特利神學院輔導中心顧問 </td>
     </tr>
     <tr>
       <td>專長:</td>
@@ -100,11 +100,11 @@ NSW 2124, Australia<br>
     </tr>
     <tr>
       <td>專業會籍:</td>
-      <td>新南威爾斯省輔導員及心理治療師專業協會會員 Member of Counsellors & Psychotherapists Association of NSW </td>
+      <td>新南威爾斯省輔導員及心理治療師專業協會會員 </td>
     </tr>
     <tr>
       <td>履歷:</td>
-      <td>輔導學碩士, 浸信會神學院 Master of Counselling, Morling College</td>
+      <td>輔導學碩士, 浸信會神學院 </td>
     </tr>
     <tr>
       <td>專長:</td>
@@ -127,18 +127,21 @@ NSW 2124, Australia<br>
     </tr>
     <tr>
       <td colspan="1" rowspan="2">專業會籍:</td>
-      <td>基督教輔導員專業協會會員Member of Christian Counsellors Association of Australia</td>
+      <td>基督教輔導員專業協會會員</td>
     </tr>
 	<tr>
-		<td>澳洲性教育人員,研究員及治療師專業協會會員Member of Australian Society of Sex Educators, Researchers and Therapists</td>
+		<td>澳洲性教育人員,研究員及治療師專業協會會員</td>
 	</tr>
     <tr>
-      <td>履歷:</td>
-      <td>輔導學碩士, 浸信會神學院Master of Counselling, Morling College</td>
+      <td colspan="1" rowspan="2">履歷:</td>
+      <td>輔導學碩士, 浸信會神學院</td>
     </tr>
+	<tr>
+		<td>現執業於浸信會神學院內之輔導及治療中心</td>
+	</tr>
     <tr>
       <td>專長:</td>
-      <td>婚姻輔導、夫妻性健康輔導</td>
+      <td>婚姻輔導、婚前輔導、夫妻生活輔導及治療</td>
     </tr>
   </tbody>
 </table>
@@ -180,7 +183,7 @@ NSW 2124, Australia<br>
     </tr>
     <tr>
       <td>專業會籍:</td>
-      <td>基督教輔導員專業協會會員Member of Christian Counsellors Association of Australia</td>
+      <td>基督教輔導員專業協會會員</td>
     </tr>
     <tr>
       <td>履歷:</td>
@@ -192,7 +195,7 @@ NSW 2124, Australia<br>
     </tr>
   </tbody>
 </table>
- 
+
 
 </div>
 </div>

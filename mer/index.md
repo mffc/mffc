@@ -15,8 +15,8 @@ categories:
         <div class="white_frame">
           <div style="margin : 5%">
             <a href="{{site.baseurl}}{{entry.url}}" class="thumbnail">
-              {% if entry.url == "/mer/counciling/" %}
-              <img src="{{site.baseurl}}/images/marriage_counciling.jpg" class="img-responsive">
+              {% if entry.url == "/mer/counselling/" %}
+              <img src="{{site.baseurl}}/images/marriage_counselling.jpg" class="img-responsive">
               {% elsif entry.url == "/mer/mer/" %}
               <img src="{{site.baseurl}}/images/MER_1-2.jpg" class="img-responsive">
               {% elsif entry.url == "/mer/mer2/" %}
