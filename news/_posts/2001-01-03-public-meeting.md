@@ -267,7 +267,7 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
   </tbody>
 </table>
 <br>
-查詢:  (02) 9715 6923 或 www.mffc.org.au
+查詢:  (02) 9633 1925 或 www.mffc.org.au
 <br>
 下載海報
 [<span class="glyphicon glyphicon-picture"></span>](../Dr_Chiu_2016_PM_Poster_LR.jpg) <br>          
@@ -339,7 +339,7 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
   </tbody>
 </table>
 <br>
-報名或查詢:  (02) 9715 6923 或 www.mffc.org.au <br>    
+報名或查詢:  (02) 9633 1925 或 www.mffc.org.au <br>    
 下載海報
 [<span class="glyphicon glyphicon-picture"></span>](../SPC1604.jpg) <br>          
 （公開講座聚會: 免費入場，自由奉獻）

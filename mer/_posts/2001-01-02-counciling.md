@@ -42,7 +42,7 @@ submenu:
 <a href="../MaritalCounsellingServiceApplicationForm_Sydney.pdf">報名表格 <span class="glyphicon glyphicon-download-alt"></span></a><br>
 <a href="../MaritalCounsellingServiceFeedbackForm.pdf">婚姻輔導回顧及評量表 <span class="glyphicon glyphicon-download-alt"></span></a>   
 <p>
-填妥後傳真至： (02) 9715 6924；或
+填妥後傳真至： (02) 9633 2143；或
 <p>
 電郵至 <a href="mailto:info@mffc.org.au">info@mffc.org.au</a>；或
 </p>
@@ -157,7 +157,7 @@ NSW 2124, Australia<br>
 <a href="../MaritalCounsellingServiceApplicationForm_BNE.pdf">報名表格 <span class="glyphicon glyphicon-download-alt"></span></a><br>
 <a href="../MaritalCounsellingServiceFeedbackForm.pdf">婚姻輔導回顧及評量表 <span class="glyphicon glyphicon-download-alt"></span></a>   
 <p>
-填妥後傳真至： (02) 9715 6924；或
+填妥後傳真至： (02) 9633 2143；或
 <p>
 電郵至 <a href="mailto:info@mffc.org.au">info@mffc.org.au</a>；或
 </p>

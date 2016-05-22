@@ -64,7 +64,7 @@ Olson在80年代發展的一套可靠、有效並且使用簡便的婚前/婚後
 
 [下載表格 <span class="glyphicon glyphicon-download-alt"></span>](../PreMaritalCounsellingApplicationForm.pdf) 
 
-請下載表格，填妥後傳真至：(02) 9715 6924
+請下載表格，填妥後傳真至：(02) 9633 2143
 或寄往家新辦事處
 
 P.O. Box 587, Parramatta, NSW 2124 Australia
@@ -73,7 +73,7 @@ P.O. Box 587, Parramatta, NSW 2124 Australia
 
 [下載表格 <span class="glyphicon glyphicon-download-alt"></span>](../Pre_Marital_Feedback_Form.pdf)
 
-請下載表格，填妥後傳真至：(02) 9715 6924
+請下載表格，填妥後傳真至：(02) 9633 2143
 或寄往家新辦事處
 
 
