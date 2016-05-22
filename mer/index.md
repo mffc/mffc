@@ -2,8 +2,7 @@
 layout: default
 title: 夫婦營及婚姻事工
 lang: zh-hk
-categories: 
-  - zh-hk
+categories:
   - mer
 ---
 <div class="container">

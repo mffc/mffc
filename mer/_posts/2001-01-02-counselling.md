@@ -3,7 +3,6 @@ layout: page
 title: 婚姻輔導
 lang: zh-hk
 categories:
-- zh-hk
 - mer
 submenu:
   - {hook: 'info', title: "申請須知"}

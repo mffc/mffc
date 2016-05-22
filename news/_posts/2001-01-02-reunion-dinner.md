@@ -1,19 +1,18 @@
 ---
 layout: page
-title: 感恩大團聚 
+title: 感恩大團聚
 lang: zh-hk
-categories: 
-  - zh-hk
+categories:
   - news
 submenu:
   - {hook: "adeliade",  title: "亞特雷"}
   - {hook: "brisbane",  title: "布里斯本"}
-  - {hook: "canberra",  title: "坎培拉"} 
+  - {hook: "canberra",  title: "坎培拉"}
   - {hook: "melbourne", title: "墨爾本"}
   - {hook: "sydney", title: "悉尼"}
   - {hook: "perth", title: "柏斯"}
 ---
-  
+
 感恩大團聚:  
 ============
 <div class="panel-group" id="m-panel">
@@ -113,7 +112,7 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
 講員簡介:
 <br>
 <small><span style="font-weight: bold;" >屈偉豪博士</span> - 資深執業家庭治療師，婚姻及家庭治療哲學博士，擁有美國加州之執業資格，亦為美國婚姻及家庭治療學會臨床會員暨檢定臨床督導，香港專業輔導協會院士暨認可督導，美國臨床牧關教育及督導協會院士，香港伯特利神學院基督教家庭治療碩士課程主任；屈博士經常應邀主講講座，並曾在多所電台擔任嘉賓主持，講解家庭生活要訣。</small>
-<br> 
+<br>
 <br>
 <small><span style="font-weight: bold;" >屈黎懿堅博士</span> - 資深基督教教育工作者，宗教教育哲學博士，香港伯特利神學院宗教教育科教授，經常應邀於教會與機構中講道及主講講座。
 </small>
@@ -123,7 +122,7 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
 下載海報
 [<span class="glyphicon glyphicon-picture"></span>](../SPC1604.jpg) <br>  
 下載報名表
-[<span class="glyphicon glyphicon-download-alt"></span>](../2016 May Cantonese Reunion Dinner Rego.pdf) 
+[<span class="glyphicon glyphicon-download-alt"></span>](../2016 May Cantonese Reunion Dinner Rego.pdf)
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
@@ -141,5 +140,3 @@ href="#perthinfo"><h2>柏斯</h2></a>
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
 </div> {{! end Row}}  
-
-

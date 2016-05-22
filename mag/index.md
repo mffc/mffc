@@ -1,9 +1,8 @@
 ---
 layout: default
-title: 文字及影音 
+title: 文字及影音
 lang: zh-hk
-categories: 
-  - zh-hk
+categories:
   - mag
 ---
 <div class="container">
@@ -23,7 +22,7 @@ categories:
               <img src="{{site.baseurl}}/images/Stay_connected.jpg" class="img-responsive">
               {% else %}
               <img src="{{site.baseurl}}/images/mainRight.png" class="img-responsive">
-              {% endif %} 
+              {% endif %}
               <div class="caption">
                 <h3 class="text-center">{{entry.title}}</h3>
               </div>

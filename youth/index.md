@@ -2,8 +2,7 @@
 layout: default
 title: 婚前及青年關係事工
 lang: zh-hk
-categories: 
-  - zh-hk
+categories:
   - youth
 ---
 <div class="container">
@@ -34,4 +33,3 @@ categories:
 {% endfor %}
 </div>
 </div>
-

@@ -2,8 +2,7 @@
 layout: page
 title: 家新伴你行
 lang: zh-hk
-categories: 
-  - zh-hk
+categories:
   - mag
 ---
 
@@ -376,7 +375,7 @@ src="../English - December 2013.png">
 </div>
 <div class="col-sm-6 col-md-3">
 <a href="../English - September 2012.pdf">
-<div> 
+<div>
 <div class="thumbnail">
 <img class="img-responsive" alt="September 2012 Magazine" src="../English - September 2012.png">
 <div class="caption">
@@ -385,7 +384,7 @@ src="../English - December 2013.png">
 </div>
 </a>
 <a href="../stayconnect_Sept_2012.pdf">
-<div> 
+<div>
 <div class="thumbnail">
 <img class="img-responsive" alt="September 2012 Magazine" src="../stayconnect_2012Sept.png">
 <div class="caption">
@@ -419,5 +418,3 @@ src="../English - December 2013.png">
 </div> {{! End panel}}
 
 </div> {{! End Panel-group}}
-
-
