@@ -3,15 +3,14 @@ body{
   background-image: url(images/wallpaper.jpg);
   background-repeat:  repeat;
   background-position: left top; 
+  background-position: left top;
   -moz-background-size:  auto;
   background-size: auto;
   background-color: #cccccc;
   font-family: "Microsoft JhengHei", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif
 }
 
-.panel-body { font-size: 150%;}
-p { font-size: 150%;}
-li { font-size: 130%;}
+.panel-body { font-size: 1.25em}
 
 .center_row{
   min-height: 30em;
@@ -48,6 +47,7 @@ li { font-size: 130%;}
 .white_frame{
   background: #fefefe;
   border: 1em solid white;
+  margin: 2em;
   position: relative;
   -moz-box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.3);
   box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.3);
@@ -187,6 +187,7 @@ a:active{
 
   .white_frame{
     border: 0.7em solid white;
+    margin : 1em;
   }
 
   h1{
