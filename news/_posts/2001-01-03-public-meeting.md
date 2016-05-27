@@ -3,7 +3,6 @@ layout: page
 title: 公開聚會  
 lang: zh-hk  
 categories:   
-  -hk  
   - news  
 submenu:
   - {hook: "adeliade",  title: "亞特雷"}
@@ -40,80 +39,24 @@ href="#brisbaneinfo"><h2>布里斯本</h2></a>
 <div class="panel-body">
 屈偉豪博士夫婦布里斯本粵語公開聚會
 =======================================
-講員簡介:
 <br>
-<small><span style="font-weight: bold;" >屈偉豪博士</span> - 資深執業家庭治療師，婚姻及家庭治療哲學博士，擁有美國加州之執業資格，亦為美國婚姻及家庭治療學會臨床會員暨檢定臨床督導，香港專業輔導協會院士暨認可督導，美國臨床牧關教育及督導協會院士，香港伯特利神學院基督教家庭治療碩士課程主任；屈博士經常應邀主講講座，並曾在多所電台擔任嘉賓主持，講解家庭生活要訣。</small>
-<br> 
-<br>
-<small><span style="font-weight: bold;" >屈黎懿堅博士</span> - 資深基督教教育工作者，宗教教育哲學博士，香港伯特利神學院宗教教育科教授，經常應邀於教會與機構中講道及主講講座。
-</small>
-<br>
-<br>
-
-(一)親子公開講座
-
-<table style="text-align: left; width: 100%;" border="1"
+屈偉豪博士、屈黎懿堅博士之公開聚會已順利舉行完畢，該兩晚聚會之簡報可在此下載。
+<table style="text-align: left; width: 70%;" border="1"
  cellpadding="5" cellspacing="0">
   <tbody>
     <tr>
-      <td style="width: 12%;"><span style="font-weight: bold;" >專題:</span></td>
-      <td><span style="font-weight: bold;" >和睦同心•如何有效處理親子衝突</span></td>
+        <td align="center">親子公開講座</td>
+        <td>和睦同心： 如何有效處理親子衝突 <a href="../2016_Dr_Wat_Parent_Child_Conflict.pdf"><span class="glyphicon glyphicon-picture"></span></a></span></td>
     </tr>
     <tr>
-      <td>日期:</td>
-      <td>2016年5月6日〔星期五〕</td>
+        <td align="center">夫婦公開講座</td>
+        <td>恩愛和諧： 婚姻中的誤解與復和 <a href="../2016_Dr_Wat_Couples.pdf"><span class="glyphicon glyphicon-picture"></span></a></span></td>
     </tr>
     <tr>
-      <td>時間:</td>
-      <td>晚上七時卅分</td>
-    </tr>
-    <tr>
-      <td>地點:</td>
-      <td>布里斯本華人基督教會-頌恩堂 (CCCB)
-	  </td>
-    </tr>
-	<tr>
-      <td>地址：</td>
-      <td>23 Beenleigh Road, Cnr. Beenleigh Rd & Selhurst St. Coopers Plains 4108
-	  </td>
+        <td colspan="2"  align="center">註：版權屬作者所有。</td>
     </tr>
   </tbody>
 </table>
-<br>
-
-(二)夫婦公開講座
-<table style="text-align: left; width: 100%;" border="1"
- cellpadding="5" cellspacing="0">
-  <tbody>
-    <tr>
-      <td style="width: 12%;"><span style="font-weight: bold;" >專題:</span></td>
-      <td><span style="font-weight: bold;" >恩愛和諧•婚姻中的誤解與復和</span></td>
-    </tr>
-    <tr>
-      <td>日期:</td>
-      <td>2016年5月7日〔星期六〕</td>
-    </tr>
-    <tr>
-      <td>時間:</td>
-      <td>晚上七時卅分</td>
-    </tr>
-    <tr>
-      <td>地點:</td>
-      <td>布里斯本華人基督教會-頌恩堂 (CCCB)
-	  </td>
-    </tr>
-	<tr>
-      <td>地址：</td>
-      <td>23 Beenleigh Road, Cnr. Beenleigh Rd & Selhurst St. Coopers Plains 4108
-	  </td>
-    </tr>
-  </tbody>
-</table>
-<br>
-聯絡查詢: Eric Yu 0421 012 065 或 www.mffc.org.au <br>    
-下載海報
-[<span class="glyphicon glyphicon-picture"></span>](../BPC1605.jpg) <br>          
-（公開講座聚會: 免費入場，自由奉獻）
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
@@ -128,49 +71,20 @@ href="#canberrainfo"><h2>坎培拉</h2></a>
 <div class="panel-body">
 屈偉豪博士夫婦坎培拉粵語(國語翻譯)公開聚會
 ===============================================
-講員簡介:
 <br>
-<small><span style="font-weight: bold;" >屈偉豪博士</span> - 資深執業家庭治療師，婚姻及家庭治療哲學博士，擁有美國加州之執業資格，亦為美國婚姻及家庭治療學會臨床會員暨檢定臨床督導，香港專業輔導協會院士暨認可督導，美國臨床牧關教育及督導協會院士，香港伯特利神學院基督教家庭治療碩士課程主任；屈博士經常應邀主講講座，並曾在多所電台擔任嘉賓主持，講解家庭生活要訣。</small>
-<br> 
-<br>
-<small><span style="font-weight: bold;" >屈黎懿堅博士</span> - 資深基督教教育工作者，宗教教育哲學博士，香港伯特利神學院宗教教育科教授，經常應邀於教會與機構中講道及主講講座。
-</small>
-<br>
-<br>
-
-夫婦公開講座
-<table style="text-align: left; width: 100%;" border="1"
+屈偉豪博士、屈黎懿堅博士之公開聚會已順利舉行完畢，該晚聚會之簡報可在此下載。
+<table style="text-align: left; width: 70%;" border="1"
  cellpadding="5" cellspacing="0">
   <tbody>
     <tr>
-      <td style="width: 12%;"><span style="font-weight: bold;" >專題:</span></td>
-      <td><span style="font-weight: bold;" >恩愛和諧•婚姻中的誤解與復和</span></td>
+        <td align="center">夫婦公開講座</td>
+        <td>恩愛和諧： 婚姻中的誤解與復和 <a href="../2016_Dr_Wat_Couples.pdf"><span class="glyphicon glyphicon-picture"></span></a></span></td>
     </tr>
     <tr>
-      <td>日期:</td>
-      <td>2016年5月4日〔星期三〕</td>
-    </tr>
-    <tr>
-      <td>時間:</td>
-      <td>晚上七時卅分</td>
-    </tr>
-    <tr>
-      <td>地點:</td>
-      <td>坎培拉澳亞基督教會 (Canberra Austral - Asian Christian Church)
-	  </td>
-    </tr>
-	<tr>
-      <td>地址：</td>
-      <td>36 Ringrose Crescent, Isaccs, ACT 2607
-	  </td>
+        <td colspan="2"  align="center">註：版權屬作者所有。</td>
     </tr>
   </tbody>
 </table>
-<br>
-聯絡查詢: Frank Yu 0417 467 039 或 www.mffc.org.au <br>    
-下載海報
-[<span class="glyphicon glyphicon-picture"></span>](../CPC1605.jpg) <br>          
-（公開講座聚會: 免費入場，自由奉獻）
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
@@ -183,47 +97,7 @@ href="#melbourneinfo"><h2>墨爾本</h2></a>
 </div>
 <div id="melbourneinfo" class="collapse">
 <div class="panel-body">
-邱清泰博士墨爾本<span style="text-decoration: underline;" >普通話</span>公開聚會
-==================================
-講員簡介:
-<br>
-<small><span style="font-weight: bold;" >邱清泰博士</span> - 現任「國際家庭更新協會」總會會長,美國加州州政府檢定「婚姻、家庭、兒童心理治療師」執照;曾任台灣「東海大學」幸褔家庭中心婚姻家庭顧問,美國「中國信徒佈道會」心理輔導部主任,美國三藩巿「中信心理輔導中心」主任。</small>
-<br>
-<br>
-<table style="text-align: left; width: 100%;" border="1"
- cellpadding="5" cellspacing="0">
-  <tbody>
-    <tr>
-      <td style="width: 12%;"><span style="font-weight: bold;" >專題:</span></td>
-      <td><span style="font-weight: bold;" >心法與劍法</span></td>
-    </tr>
-    <tr>
-      <td>日期:</td>
-      <td>2016年4月22日〔星期五〕</td>
-    </tr>
-    <tr>
-      <td>時間:</td>
-      <td>晚上七時卅分</td>
-    </tr>
-    <tr>
-      <td>地點:</td>
-      <td>墨尔本华人浸信会<br>
-		75A Cotham Road, Kew VIC 3101
-	  </td>
-    </tr>
-  </tbody>
-</table>
-<br>
-電話查詢: <br>
-&nbsp;&nbsp;Rev Daniel Wong 王偉強牧師 Tel No: 0433 553 777 <br>
-&nbsp;&nbsp;或 Imelda Leung 梁美玉姊妹 Tel No: 0438 819 005 <br>
-&nbsp;&nbsp;或 湯華燊先生(San Thang) 0438 178 338 <br>
-&nbsp;&nbsp;或 www.mffc.org.au <br>
-<br>
-下載海報
-[<span class="glyphicon glyphicon-picture"></span>](../Dr_Chiu_Melb_PM_Poster_LR.jpg) <br>          
-（公開講座聚會: 免費入場，自由奉獻）
-
+2016年:詳情容後公佈。
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
@@ -236,11 +110,34 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
 </div>
 <div id="sydneyinfo" class="collapse">
 <div class="panel-body">
-邱清泰博士雪梨<span style="text-decoration: underline;" >國語</span>公開聚會
-==================================
+屈偉豪博士夫婦雪梨粵語公開聚會
+==============================
+<br>
+屈偉豪博士、屈黎懿堅博士之公開聚會已順利舉行完畢，該兩晚聚會之簡報可在此下載。
+<table style="text-align: left; width: 70%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+        <td align="center">親子公開講座</td>
+        <td>和睦同心： 如何有效處理親子衝突 <a href="../2016_Dr_Wat_Parent_Child_Conflict.pdf"><span class="glyphicon glyphicon-picture"></span></a></span></td>
+    </tr>
+    <tr>
+        <td align="center">夫婦公開講座</td>
+        <td>恩愛和諧： 婚姻中的誤解與復和 <a href="../2016_Dr_Wat_Couples.pdf"><span class="glyphicon glyphicon-picture"></span></a></span></td>
+    </tr>
+    <tr>
+        <td colspan="2"  align="center">註：版權屬作者所有。</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+沈祖堯教授雪梨粵語公開講座
+=========================
 講員簡介:
 <br>
-<small><span style="font-weight: bold;" >邱清泰博士</span> - 現任「國際家庭更新協會」總會會長,美國加州州政府檢定「婚姻、家庭、兒童心理治療師」執照;曾任台灣「東海大學」幸褔家庭中心婚姻家庭顧問,美國「中國信徒佈道會」心理輔導部主任,美國三藩巿「中信心理輔導中心」主任。</small>
+<small><span style="font-weight: bold;" >沈祖堯教授 Professor Joseph SUNG</span> - 現任 香港中文大學校長、腸胃科研究權威，2003年被《時代周刊》評為「亞洲英雄」。連續兩年榮膺香港最佳大學校長。沈教授著作甚豐，曾在頂尖國際醫學及科學期刊發表超過八百篇論文。他著作及編輯的書籍超過二十五本，部份篇章載主要教科書內，包括 Oxford Textbook of Medicine（第五版）。
+</small>
 <br>
 <br>
 <table style="text-align: left; width: 100%;" border="1"
@@ -248,11 +145,11 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
   <tbody>
     <tr>
       <td style="width: 12%;"><span style="font-weight: bold;" >專題:</span></td>
-      <td><span style="font-weight: bold;" >心法與劍法</span></td>
+      <td><span style="font-weight: bold;" >最愛是誰 -  友情、愛情、親情的挑戰與融會</span></td>
     </tr>
     <tr>
       <td>日期:</td>
-      <td>2016年4月16日〔星期六〕</td>
+      <td>2016年6月27日〔星期一〕</td>
     </tr>
     <tr>
       <td>時間:</td>
@@ -260,8 +157,8 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
     </tr>
     <tr>
       <td>地點:</td>
-      <td>西雪梨華人基督教會<br>
-		90 Homebush Road, Strathfield, NSW 2135
+      <td>天恩華人長老會<br>
+		38 James Street Lidcombe NSW 2141
 	  </td>
     </tr>
   </tbody>
@@ -270,79 +167,10 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
 查詢:  (02) 9633 1925 或 www.mffc.org.au
 <br>
 下載海報
-[<span class="glyphicon glyphicon-picture"></span>](../Dr_Chiu_2016_PM_Poster_LR.jpg) <br>          
+[<span class="glyphicon glyphicon-picture"></span>](../2016 Prof Sung_Public Meeting.pdf)
+<br>          
 （公開講座聚會: 免費入場，自由奉獻）
 <br>
-<br>
-
-屈偉豪博士夫婦雪梨<span style="text-decoration: underline;" >粵語</span>公開聚會
-==================================
-講員簡介:
-<br>
-<small><span style="font-weight: bold;" >屈偉豪博士</span> - 資深執業家庭治療師，婚姻及家庭治療哲學博士，擁有美國加州之執業資格，亦為美國婚姻及家庭治療學會臨床會員暨檢定臨床督導，香港專業輔導協會院士暨認可督導，美國臨床牧關教育及督導協會院士，香港伯特利神學院基督教家庭治療碩士課程主任；屈博士經常應邀主講講座，並曾在多所電台擔任嘉賓主持，講解家庭生活要訣。</small>
-<br> 
-<br>
-<small><span style="font-weight: bold;" >屈黎懿堅博士</span> - 資深基督教教育工作者，宗教教育哲學博士，香港伯特利神學院宗教教育科教授，經常應邀於教會與機構中講道及主講講座。
-</small>
-<br>
-<br>
-
-(一)親子公開講座
-
-<table style="text-align: left; width: 100%;" border="1"
- cellpadding="5" cellspacing="0">
-  <tbody>
-    <tr>
-      <td style="width: 12%;"><span style="font-weight: bold;" >專題:</span></td>
-      <td><span style="font-weight: bold;" >和睦同心•如何有效處理親子衝突</span></td>
-    </tr>
-    <tr>
-      <td>日期:</td>
-      <td>2016年4月29日〔星期五〕 </td>
-    </tr>
-    <tr>
-      <td>時間:</td>
-      <td>晚上七時卅分</td>
-    </tr>
-    <tr>
-      <td>地點:</td>
-      <td>西雪梨華人基督教會<br>
-		90 Homebush Road, Strathfield, NSW 2135
-	  </td>
-    </tr>
-  </tbody>
-</table>
-<br>
-
-(二)夫婦公開講座
-<table style="text-align: left; width: 100%;" border="1"
- cellpadding="5" cellspacing="0">
-  <tbody>
-    <tr>
-      <td style="width: 12%;"><span style="font-weight: bold;" >專題:</span></td>
-      <td><span style="font-weight: bold;" >恩愛和諧•婚姻中的誤解與復和</span></td>
-    </tr>
-    <tr>
-      <td>日期:</td>
-      <td>2016年4月30日〔星期六〕 </td>
-    </tr>
-    <tr>
-      <td>時間:</td>
-      <td>晚上七時卅分</td>
-    </tr>
-    <tr>
-      <td>地點:</td>
-      <td>西雪梨華人基督教會<br>
-		90 Homebush Road, Strathfield, NSW 2135
-	  </td>
-    </tr>
-  </tbody>
-</table>
-<br>
-報名或查詢:  (02) 9633 1925 或 www.mffc.org.au <br>    
-下載海報
-[<span class="glyphicon glyphicon-picture"></span>](../SPC1604.jpg) <br>          
-（公開講座聚會: 免費入場，自由奉獻）
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
