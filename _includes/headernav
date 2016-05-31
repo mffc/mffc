@@ -60,7 +60,7 @@
         {% endfor %}
       </ul>
       </li>
-      <li class="">
+      <li class="active">
       <a id="nav6" href="{{ site.baseurl }}/ssm/ssm/">{{ t.[page.lang].header.ssm }}</a>
       </li>
    </ul>

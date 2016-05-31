@@ -17,11 +17,7 @@ body{
 }
 .navbar-nav{
   float: none;
-<<<<<<< HEAD
   width: 65%;
-=======
-  width: 80%;
->>>>>>> e644a7da7ee48c6a1663ba14af4ad16281bd00da
   margin: 0px auto;
 }
 
