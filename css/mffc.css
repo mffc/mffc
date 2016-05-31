@@ -17,7 +17,7 @@ body{
 }
 .navbar-nav{
   float: none;
-  width: 55em;
+  width: 65%;
   margin: 0px auto;
 }
 
@@ -199,7 +199,7 @@ a:active{
   }
 
   .caption h4{
-    font-size: 24px;
+    font-size: 13px;
   }
 
   .sofa{
