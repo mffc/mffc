@@ -110,9 +110,24 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
 </div>
 <div id="sydneyinfo" class="collapse">
 <div class="panel-body">
+感恩大團聚:  
+============
+恩愛夫婦感恩大團聚已順利舉行完畢，該晚聚會之簡報可在此下載。
+<table style="text-align: left; width: 70%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+        <td align="center">屈偉豪博士、屈黎懿堅博士短講</td>
+        <td>鰜鰈互明瞭 <a href="../2016_Dr_Wat_Couples_Reunion.pdf"><span class="glyphicon glyphicon-picture"></span></a></span></td>
+    </tr>
+    <tr>
+        <td colspan="2"  align="center">註：版權屬作者所有。</td>
+    </tr>
+  </tbody>
+</table>
+<br>
 屈偉豪博士夫婦雪梨粵語公開聚會
 ==============================
-<br>
 屈偉豪博士、屈黎懿堅博士之公開聚會已順利舉行完畢，該兩晚聚會之簡報可在此下載。
 <table style="text-align: left; width: 70%;" border="1"
  cellpadding="5" cellspacing="0">
@@ -130,7 +145,6 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
     </tr>
   </tbody>
 </table>
-<br>
 <br>
 沈祖堯教授雪梨粵語公開講座
 =========================
