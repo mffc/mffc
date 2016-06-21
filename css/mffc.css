@@ -1,4 +1,5 @@
 html {height: 100%}
+
 body{
   background-image: url(images/wallpaper.jpg);
   background-repeat:  repeat;
@@ -9,6 +10,7 @@ body{
   background-color: #cccccc;
   font-family: "Microsoft JhengHei", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif
 }
+
 
 .panel-body { font-size: 1.25em}
 
@@ -51,6 +53,10 @@ body{
   position: relative;
   -moz-box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.3);
   box-shadow: 0 0 0.7em rgba(0,0,0,0.7), inset 0 0 0.5em rgba(0,0,0,0.3);
+}
+
+.white_frame_margin{
+   margin: 2em;
 }
 
 .thumbnail:before{
@@ -188,6 +194,10 @@ a:active{
   .white_frame{
     border: 0.7em solid white;
     margin : 1em;
+  }
+
+  .white_frame_margin{
+     margin: 0.2em;
   }
 
   h1{
