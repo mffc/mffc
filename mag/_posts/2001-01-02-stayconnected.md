@@ -46,6 +46,15 @@ categories:
 </div></div>
 </div>
 </a>
+<a href="../stayconnect_Jul_2016.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="2016年7月號 Magazine" src="../stayconnect_Jul_2016_small.jpg">
+<div class="caption">
+<h4>2016年7月號</h4>
+</div></div>
+</div>
+</a>
 </div> {{! End panel-body}}
 </div> {{! End collapse}}
 </div> {{! End panel}}
