@@ -55,6 +55,15 @@ categories:
 </div></div>
 </div>
 </a>
+<a href="../stayconnect_Sep_2016.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="2016年9月號 Magazine" src="../stayconnect_Sep_2016_small.jpg">
+<div class="caption">
+<h4>2016年9月號</h4>
+</div></div>
+</div>
+</a>
 </div> {{! End panel-body}}
 </div> {{! End collapse}}
 </div> {{! End panel}}
