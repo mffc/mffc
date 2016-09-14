@@ -37,26 +37,80 @@ href="#brisbaneinfo"><h2>布里斯本</h2></a>
 </div>
 <div id="brisbaneinfo" class="collapse">
 <div class="panel-body">
-屈偉豪博士夫婦布里斯本粵語公開聚會
-=======================================
+游建国、刘俪夫妇布里斯本國語公開聚會<span style="font-size: large; font-weight: bold;" >暨</span>恩愛夫婦感恩大團聚
+=====================================================================================================
+講員簡介:
 <br>
-屈偉豪博士、屈黎懿堅博士之公開聚會已順利舉行完畢，該兩晚聚會之簡報可在此下載。
-<table style="text-align: left; width: 70%;" border="1"
+<small><span style="font-weight: bold;" >游建国，刘俪夫妇</span> - 台湾出生，侨居美国28年; 游建国是中国国家高级心理咨询师，婚姻家庭咨询师,历任美国凤城华人基督教会执事会主席，夫妻团契主席。刘俪为北美中华福音神学院辅导硕士，夫妇二人在婚姻家庭领域携手服侍北美华人及教会二十余年。2008年受邀参与512中国四川地震心理援建工作，参与四川仁爱医疗基金会创建，负责基金会心理咨询中心；结合国内外专家、专业资源，面向社会大众心理健康服务项目，以及主内牧长、同工婚姻家庭亲子的教导、辅导讲座、课程、个人咨询。目前夫妇二人定居成都，经常同台联手讲授婚姻家庭特会及课程。着重真理在生活中的践行，生活中以身教言教合一以见证真理。
+</small>
+<br>
+公開聚會主題: 猫虎一家亲
+========================
+<table style="text-align: left; width: 100%;" border="1"
  cellpadding="5" cellspacing="0">
   <tbody>
     <tr>
-        <td align="center">親子公開講座</td>
-        <td>和睦同心： 如何有效處理親子衝突 <a href="../2016_Dr_Wat_Parent_Child_Conflict.pdf"><span class="glyphicon glyphicon-picture"></span></a></span></td>
+      <td style="width: 50%;"><span
+ style="font-weight: bold;">專題</span></td>
+      <td><span style="font-weight: bold;">日期</span></td>
     </tr>
     <tr>
-        <td align="center">夫婦公開講座</td>
-        <td>恩愛和諧： 婚姻中的誤解與復和 <a href="../2016_Dr_Wat_Couples.pdf"><span class="glyphicon glyphicon-picture"></span></a></span></td>
+      <td>婚姻是啥玩意兒？</td>
+      <td>2016年10月14日（週五）</td>
     </tr>
     <tr>
-        <td colspan="2"  align="center">註：版權屬作者所有。</td>
+      <td>如何讓愛情永不打烊？</td>
+      <td>2016年10月15日（週六）</td>
     </tr>
   </tbody>
 </table>
+<br>
+時間：晚上七時正<br>
+地點：基督教新利班浸信会<br>
+地址：127 Nemies Road， Runcorn 4113<br>
+<br>
+（公開講座, 免費入場, 自由奉獻）
+<br><br>
+
+夫婦感恩大團聚
+==============
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;"><span
+ style="font-weight: bold;">專題:</span></td>
+      <td><span style="font-weight: bold;">勝過忙碌 - 愛的秘訣</span></td>
+    </tr>
+    <tr>
+      <td>日期:</td>
+      <td>2016年10月16日〔週日〕</td>
+    </tr>
+    <tr>
+      <td>時間:</td>
+      <td>晚上準六時正</td>
+    </tr>
+	<tr>
+      <td>地點:</td>
+      <td>柏林大酒樓 Parkland Restaurant (next to ALDI)</td>
+    </tr>
+	<tr>
+      <td>地址:</td>
+      <td>Sunny Park Shopping Centre, Sunnybank 4109</td>
+    </tr>
+	<tr>
+      <td>費用:</td>
+      <td>每位$35</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
+下載海報
+[<span class="glyphicon glyphicon-picture"></span>](../BPM1610 LR Poster.jpg)
+<br><br>
+聯絡查詢:  David Wang 0421 892 617 或 www.mffc.org.au
+<br>
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
@@ -110,80 +164,44 @@ href="#sydneyinfo"><h2>悉尼</h2></a>
 </div>
 <div id="sydneyinfo" class="collapse">
 <div class="panel-body">
-感恩大團聚:  
-============
-恩愛夫婦感恩大團聚已順利舉行完畢，該晚聚會之簡報可在此下載。
-<table style="text-align: left; width: 70%;" border="1"
- cellpadding="5" cellspacing="0">
-  <tbody>
-    <tr>
-        <td align="center">屈偉豪博士、屈黎懿堅博士短講</td>
-        <td>鰜鰈互明瞭 <a href="../2016_Dr_Wat_Couples_Reunion.pdf"><span class="glyphicon glyphicon-picture"></span></a></span></td>
-    </tr>
-    <tr>
-        <td colspan="2"  align="center">註：版權屬作者所有。</td>
-    </tr>
-  </tbody>
-</table>
-<br>
-屈偉豪博士夫婦雪梨粵語公開聚會
-==============================
-屈偉豪博士、屈黎懿堅博士之公開聚會已順利舉行完畢，該兩晚聚會之簡報可在此下載。
-<table style="text-align: left; width: 70%;" border="1"
- cellpadding="5" cellspacing="0">
-  <tbody>
-    <tr>
-        <td align="center">親子公開講座</td>
-        <td>和睦同心： 如何有效處理親子衝突 <a href="../2016_Dr_Wat_Parent_Child_Conflict.pdf"><span class="glyphicon glyphicon-picture"></span></a></span></td>
-    </tr>
-    <tr>
-        <td align="center">夫婦公開講座</td>
-        <td>恩愛和諧： 婚姻中的誤解與復和 <a href="../2016_Dr_Wat_Couples.pdf"><span class="glyphicon glyphicon-picture"></span></a></span></td>
-    </tr>
-    <tr>
-        <td colspan="2"  align="center">註：版權屬作者所有。</td>
-    </tr>
-  </tbody>
-</table>
-<br>
-沈祖堯教授雪梨粵語公開講座
+游建国、刘俪夫妇悉尼國語公開聚會
 =========================
 講員簡介:
 <br>
-<small><span style="font-weight: bold;" >沈祖堯教授 Professor Joseph SUNG</span> - 現任 香港中文大學校長、腸胃科研究權威，2003年被《時代周刊》評為「亞洲英雄」。連續兩年榮膺香港最佳大學校長。沈教授著作甚豐，曾在頂尖國際醫學及科學期刊發表超過八百篇論文。他著作及編輯的書籍超過二十五本，部份篇章載主要教科書內，包括 Oxford Textbook of Medicine（第五版）。
+<small><span style="font-weight: bold;" >游建国，刘俪夫妇</span> - 台湾出生，侨居美国28年; 游建国是中国国家高级心理咨询师，婚姻家庭咨询师,历任美国凤城华人基督教会执事会主席，夫妻团契主席。刘俪为北美中华福音神学院辅导硕士，夫妇二人在婚姻家庭领域携手服侍北美华人及教会二十余年。2008年受邀参与512中国四川地震心理援建工作，参与四川仁爱医疗基金会创建，负责基金会心理咨询中心；结合国内外专家、专业资源，面向社会大众心理健康服务项目，以及主内牧长、同工婚姻家庭亲子的教导、辅导讲座、课程、个人咨询。目前夫妇二人定居成都，经常同台联手讲授婚姻家庭特会及课程。着重真理在生活中的践行，生活中以身教言教合一以见证真理。
 </small>
 <br>
-<br>
+主題: 猫虎一家亲
+================
 <table style="text-align: left; width: 100%;" border="1"
  cellpadding="5" cellspacing="0">
   <tbody>
     <tr>
-      <td style="width: 12%;"><span style="font-weight: bold;" >專題:</span></td>
-      <td><span style="font-weight: bold;" >最愛是誰 -  友情、愛情、親情的挑戰與融會</span></td>
+      <td style="width: 50%;"><span
+ style="font-weight: bold;">專題</span></td>
+      <td><span style="font-weight: bold;">日期</span></td>
     </tr>
     <tr>
-      <td>日期:</td>
-      <td>2016年6月27日〔星期一〕</td>
+      <td>如何讓愛情永不打烊？</td>
+      <td>2016年10月21日（週五）</td>
     </tr>
     <tr>
-      <td>時間:</td>
-      <td>晚上七時卅分</td>
-    </tr>
-    <tr>
-      <td>地點:</td>
-      <td>天恩華人長老會<br>
-		38 James Street Lidcombe NSW 2141
-	  </td>
+      <td>做個智慧的父母</td>
+      <td>2016年10月22日（週六）</td>
     </tr>
   </tbody>
 </table>
 <br>
-查詢:  (02) 9633 1925 或 www.mffc.org.au
+時間：晚上七時半<br>
+地點：西雪梨華人基督教會<br>
+地址：90 Homebush Road, Strathfield, NSW 2135<br>
 <br>
-下載海報
-[<span class="glyphicon glyphicon-picture"></span>](../2016 Prof Sung_Public Meeting.pdf)
-<br>          
 （公開講座聚會: 免費入場，自由奉獻）
+<br><br>
+下載海報
+[<span class="glyphicon glyphicon-picture"></span>](../SPM1610 LR Poster.jpg)
+<br><br>
+查詢:  (02) 9633 1925 或 www.mffc.org.au
 <br>
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
