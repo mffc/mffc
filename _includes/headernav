@@ -53,7 +53,9 @@
       <li class="dropdown">
       <a id="nav2" href="#" data-toggle="dropdown">{{ t.[page.lang].header.news }}</a>
       <ul class="dropdown-menu" aria-labelledby="nav2">
-		<li><a href="{{ site.baseurl }}/ssm/ssm/">{{ t.[page.lang].header.ssm }}</a>
+		<!-- remove ssm from menu
+		<li><a href="{{ site.baseurl }}/ssm/ssm/">{{ t.[page.lang].header.ssm }}</a></li>
+		-->
          {% for post in site.categories.news %}
           {% if post.lang == page.lang %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> </li>
@@ -61,9 +63,11 @@
         {% endfor %}
       </ul>
       </li>
+	  <!-- remove ssm from menu
       <li class="active">
       <a id="nav6" href="{{ site.baseurl }}/ssm/ssm/">{{ t.[page.lang].header.ssm }}</a>
       </li>
+	  -->
    </ul>
   </nav>
 </header>
