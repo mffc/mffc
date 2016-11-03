@@ -3,10 +3,17 @@ markdown: redcarpet
 redcarpet:
     extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables"]
 #    extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-pygments: true
+highlighter: pygments
 encoding: utf-8
 
 permalink: /:categories/:title/
+
+## To see warning messages when running jekyll, uncomment the following
+# liquid:
+#  error_mode: warn
+
+liquid:
+  error_mode: lax
 
 # github settings
 baseurl:
@@ -36,4 +43,3 @@ translations:
       mer: "夫婦營及婚姻事工"
       mag: "文字及影音"
       news: "最新消息"
-      ssm: "同性婚姻與澳洲聯邦選舉"
