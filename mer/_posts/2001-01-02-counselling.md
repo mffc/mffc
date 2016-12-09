@@ -199,5 +199,58 @@ NSW 2124, Australia<br>
 </div>
 </div>
 </div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<a data-toggle="collapse" name="melbourne" data-parent="#mag-panel" href="#collapse2015"><h4>墨爾本</h4></a>
+</div>
+<div id="collapse2015">
+<div class="panel-body">
+請下載<br>
+<p>
+<a href="../MaritalCounsellingServiceApplicationForm_MEL.pdf">報名表格 <span class="glyphicon glyphicon-download-alt"></span></a><br>
+<a href="../MaritalCounsellingServiceFeedbackForm.pdf">婚姻輔導回顧及評量表 <span class="glyphicon glyphicon-download-alt"></span></a>   
+<p>
+填妥後傳真至： (02) 9633 2143；或
+<p>
+電郵至 <a href="mailto:info@mffc.org.au">info@mffc.org.au</a>；或
+</p>
+<p>
+與Alice Wong (0422-882-400/ alice.jimi@gmail.com) 聯絡
+</P>
+<hr>
+<h4>輔導員履歷</h4>
+黃紫薇(Alice Wong)<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">語言:</td>
+      <td>普通話、廣東話及英語</td>
+    </tr>
+    <tr>
+      <td>性別:</td>
+      <td>女</td>
+    </tr>
+    <tr>
+      <td>專業會籍:</td>
+      <td>基督教輔導員專業協會會員、澳洲聯邦心理治療與諮詢登記會員</td>
+    </tr>
+    <tr>
+      <td>履歷:</td>
+      <td>家庭治療諮商畢業文憑（澳洲家庭治療學院）、教牧輔導碩士（中華福音神學院）、前兒童事工兼職傳道</td>
+    </tr>
+    <tr>
+      <td>專長:</td>
+      <td>婚姻輔導、婚前輔導、家庭治療、心理健康、個人成長</td>
+    </tr>
+  </tbody>
+</table>
+
+
+</div>
+</div>
+</div>
+
+
 </div>
 </div>

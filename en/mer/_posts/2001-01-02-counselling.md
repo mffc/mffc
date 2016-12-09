@@ -172,8 +172,49 @@ Connie Hon<br>
     </tr>
   </tbody>
 </table>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<a data-toggle="collapse" name="melbourne" data-parent="#mag-panel" href="#collapse2015"><h4>Melbourne</h4></a>
+</div>
+<div id="collapse2015">
+<div class="panel-body">
 
-
+<h4>Profile of counsellor</h4>
+Alice Wong<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">Language:</td>
+      <td>Mandarin, Cantonese, English</td>
+    </tr>
+    <tr>
+      <td>Gender:</td>
+      <td>Female</td>
+    </tr>
+    <tr>
+      <td>Membership:</td>
+      <td>Member of Christian Counsellors Association of Australia (VIC), Provisional member of Psychotherapy and Counselling Federation of Australia (PACFA)</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="3">Background:</td>
+      <td>Graduate certificate of Counselling and Family Therapy (Australian Institute of Family Counselling)</td>
+    </tr>
+    <tr>
+      <td>Master of Pastoral Counselling (China Evangelical Seminary, Taiwan)</td>
+    </tr>
+    <tr>
+      <td>Former pastor (part time) in church's children ministry</td>
+    </tr>
+    <tr>
+      <td>Specialty:</td>
+      <td>Marriage counselling, pre-marital counselling, family therapy, mental health, personal counselling.</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 </div>
 </div>
