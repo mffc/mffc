@@ -8,6 +8,7 @@ submenu:
   - {hook: 'info', title: "申請須知"}
   - {hook: 'sydney', title: "悉尼"}
   - {hook: 'brisbane', title: '布里斯本'}
+  - {hook: 'melbourne', title: '墨爾本'}
 ---
 
 婚姻輔導服務

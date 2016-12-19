@@ -9,6 +9,7 @@ submenu:
   - {hook: 'info', title: "Information"}
   - {hook: 'sydney', title: "Sydney"}
   - {hook: 'brisbane', title: 'Brisbane'}
+  - {hook: 'melbourne', title: 'Melbourne'}
 ---
 
 Marital Counselling Service
