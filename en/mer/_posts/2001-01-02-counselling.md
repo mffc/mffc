@@ -36,7 +36,7 @@ Information
 <div class="panel-heading">
 <a data-toggle="collapse" name="sydney" data-parent="#mag-panel" href="#collapse2013"><h4>Sydney</h4></a>
 </div>
-<div id="collapse2013">
+<div id="collapse2013" class="collapse">
 <div class="panel-body">
 
 <h4>Profile of counsellor</h4>
@@ -143,7 +143,7 @@ Ben Leung<br>
 <div class="panel-heading">
 <a data-toggle="collapse" name="brisbane" data-parent="#mag-panel" href="#collapse2014"><h4>Brisbane</h4></a>
 </div>
-<div id="collapse2014">
+<div id="collapse2014" class="collapse">
 <div class="panel-body">
 
 <h4>Profile of counsellor</h4>
@@ -180,7 +180,7 @@ Connie Hon<br>
 <div class="panel-heading">
 <a data-toggle="collapse" name="melbourne" data-parent="#mag-panel" href="#collapse2015"><h4>Melbourne</h4></a>
 </div>
-<div id="collapse2015">
+<div id="collapse2015" class="collapse">
 <div class="panel-body">
 
 <h4>Profile of counsellor</h4>

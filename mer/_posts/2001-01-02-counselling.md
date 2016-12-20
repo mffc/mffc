@@ -35,7 +35,7 @@ submenu:
 <div class="panel-heading">
 <a data-toggle="collapse" name="sydney" data-parent="#mag-panel" href="#collapse2013"><h4>悉尼</h4></a>
 </div>
-<div id="collapse2013">
+<div id="collapse2013" class="collapse">
 <div class="panel-body">
 請下載<br>
 <p>
@@ -153,7 +153,7 @@ NSW 2124, Australia<br>
 <div class="panel-heading">
 <a data-toggle="collapse" name="brisbane" data-parent="#mag-panel" href="#collapse2014"><h4>布里斯本</h4></a>
 </div>
-<div id="collapse2014">
+<div id="collapse2014" class="collapse">
 <div class="panel-body">
 請下載<br>
 <p>
@@ -204,7 +204,7 @@ NSW 2124, Australia<br>
 <div class="panel-heading">
 <a data-toggle="collapse" name="melbourne" data-parent="#mag-panel" href="#collapse2015"><h4>墨爾本</h4></a>
 </div>
-<div id="collapse2015">
+<div id="collapse2015" class="collapse">
 <div class="panel-body">
 請下載<br>
 <p>

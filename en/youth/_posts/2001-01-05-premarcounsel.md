@@ -47,29 +47,34 @@ Each session takes 60 to 90 minutes. Conducting languages: Cantonese/Mandarin<br
 
 Profile of counsellors:<a name="profile">&nbsp;</a>
 ----------
+<div class="row">
+<div class="panel-group " id="mag-panel">
 <div class="panel panel-default">
 <div class="panel-heading">
-<h3>Sydney</h3>
+<a data-toggle="collapse" name="sydney" data-parent="#mag-panel" href="#collapse2013"><h4>Sydney</h4></a>
 </div>
+<div id="collapse2013" class="collapse">
 <div class="panel-body">
+
+<h4>Profile of counsellor</h4>
 Anselm Chow<br>
 <table style="text-align: left; width: 100%;" border="1"
  cellpadding="5" cellspacing="0">
   <tbody>
     <tr>
       <td style="width: 15%;">Language:</td>
-      <td>Mandarin/Cantonese/English</td>
+      <td>Mandarin, Cantonese, English</td>
     </tr>
     <tr>
       <td>Gender:</td>
       <td>Male</td>
     </tr>
     <tr>
-      <td>Professional Membership:</td>
+      <td> Membership:</td>
       <td>Professional member of American Counselling Association</td>
     </tr>
     <tr>
-      <td colspan="1" rowspan="3">Curriculum Vitae:</td>
+      <td colspan="1" rowspan="3">Background:</td>
       <td>Former senior psychological counsellor, Hong Kong Baptist University</td>
     </tr>
     <tr>
@@ -91,18 +96,21 @@ Iris Yip<br>
   <tbody>
     <tr>
       <td style="width: 15%;">Language:</td>
-      <td>Cantonese/English</td>
+      <td>Cantonese, English</td>
     </tr>
     <tr>
       <td>Gender:</td>
       <td>Female</td>
     </tr>
     <tr>
-      <td>Professional Membership:</td>
+      <td>Membership:</td>
       <td>Member of Counsellors & Psychotherapists Association of NSW </td>
     </tr>
     <tr>
-      <td>Curriculum Vitae:</td>
+      <td colspan="1" rowspan="2">Background:</td>
+      <td>Practice in Counselling Department of Morling College </td>
+    </tr>
+    <tr>
       <td>Master of Counselling, Morling College</td>
     </tr>
     <tr>
@@ -118,29 +126,116 @@ Ben Leung<br>
   <tbody>
     <tr>
       <td style="width: 15%;">Language:</td>
-      <td>Mandarin/Cantonese/English</td>
+      <td>Mandarin, Cantonese, English</td>
     </tr>
     <tr>
       <td>Gender:</td>
       <td>Male</td>
     </tr>
     <tr>
-      <td colspan="1" rowspan="2">Professional Membership:</td>
+      <td colspan="1" rowspan="2">Membership:</td>
       <td>Member of Christian Counsellors Association of Australia</td>
     </tr>
 	<tr>
 		<td>Member of Australian Society of Sex Educators, Researchers and Therapists</td>
 	</tr>
     <tr>
-      <td>Curriculum Vitae:</td>
+      <td colspan="1" rowspan="2">Background:</td>
+      <td>Practice in Counselling Department of Morling College </td>
+    </tr>
+    <tr>
       <td>Master of Counselling, Morling College</td>
     </tr>
     <tr>
       <td>Specialty:</td>
-      <td>Marital Counselling, Marital Sexual Health Counselling</td>
+      <td>Marriage counselling, pre-marital counselling, sexual health counselling for couples</td>
     </tr>
   </tbody>
 </table>
+
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<a data-toggle="collapse" name="brisbane" data-parent="#mag-panel" href="#collapse2014"><h4>Brisbane</h4></a>
+</div>
+<div id="collapse2014" class="collapse">
+<div class="panel-body">
+
+<h4>Profile of counsellor</h4>
+Connie Hon<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">Language:</td>
+      <td>Mandarin, Cantonese, English</td>
+    </tr>
+    <tr>
+      <td>Gender:</td>
+      <td>Female</td>
+    </tr>
+    <tr>
+      <td> Membership:</td>
+      <td>Member of Christian Counsellors Association of Australia</td>
+    </tr>
+    <tr>
+      <td>Background:</td>
+      <td>MA(TESOL), BA ( Ed), Postgraduate Certificate in Counselling & Family Therapy ( Australian Institute of Family Counselling)</td>
+    </tr>
+    <tr>
+      <td>Specialty:</td>
+      <td>Marital Counselling, Pre-marital Counselling, Family Therapy</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<a data-toggle="collapse" name="melbourne" data-parent="#mag-panel" href="#collapse2015"><h4>Melbourne</h4></a>
+</div>
+<div id="collapse2015" class="collapse">
+<div class="panel-body">
+
+<h4>Profile of counsellor</h4>
+Alice Wong<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">Language:</td>
+      <td>Mandarin, Cantonese, English</td>
+    </tr>
+    <tr>
+      <td>Gender:</td>
+      <td>Female</td>
+    </tr>
+    <tr>
+      <td>Membership:</td>
+      <td>Member of Christian Counsellors Association of Australia (VIC), Provisional member of Psychotherapy and Counselling Federation of Australia (PACFA)</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="3">Background:</td>
+      <td>Graduate certificate of Counselling and Family Therapy (Australian Institute of Family Counselling)</td>
+    </tr>
+    <tr>
+      <td>Master of Pastoral Counselling (China Evangelical Seminary, Taiwan)</td>
+    </tr>
+    <tr>
+      <td>Former pastor (part time) in church's children ministry</td>
+    </tr>
+    <tr>
+      <td>Specialty:</td>
+      <td>Marriage counselling, pre-marital counselling, family therapy, mental health, personal counselling.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 </div>
 </div>
 

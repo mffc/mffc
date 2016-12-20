@@ -79,10 +79,13 @@ P.O. Box 587, Parramatta, NSW 2124 Australia
 
 輔導員履歷<a name="profile">&nbsp;</a>
 ----------
+<div class="row">
+<div class="panel-group " id="mag-panel">
 <div class="panel panel-default">
 <div class="panel-heading">
-<h3>悉尼</h3>
+<a data-toggle="collapse" name="sydney" data-parent="#mag-panel" href="#collapse2013"><h4>悉尼</h4></a>
 </div>
+<div id="collapse2013" class="collapse">
 <div class="panel-body">
 <h4>輔導員履歷</h4>
 周天駇(Anselm Chow)<br>
@@ -177,6 +180,87 @@ P.O. Box 587, Parramatta, NSW 2124 Australia
     </tr>
   </tbody>
 </table>
+
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<a data-toggle="collapse" name="brisbane" data-parent="#mag-panel" href="#collapse2014"><h4>布里斯本</h4></a>
+</div>
+<div id="collapse2014" class="collapse">
+<div class="panel-body">
+<h4>輔導員履歷</h4>
+韓林麗貞(Connie Hon)<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">語言:</td>
+      <td>普通話 廣東話及英語</td>
+    </tr>
+    <tr>
+      <td>性別:</td>
+      <td>女</td>
+    </tr>
+    <tr>
+      <td>專業會籍:</td>
+      <td>基督教輔導員專業協會會員</td>
+    </tr>
+    <tr>
+      <td>履歷:</td>
+      <td>MA(TESOL), BA ( Ed), Postgraduate Certificate in Counselling & Family Therapy ( Australian Institute of Family Counselling)</td>
+    </tr>
+    <tr>
+      <td>專長:</td>
+      <td>婚姻輔導、婚前輔導、家庭治療</td>
+    </tr>
+  </tbody>
+</table>
+
+
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<a data-toggle="collapse" name="melbourne" data-parent="#mag-panel" href="#collapse2015"><h4>墨爾本</h4></a>
+</div>
+<div id="collapse2015" class="collapse">
+<div class="panel-body">
+<h4>輔導員履歷</h4>
+黃紫薇(Alice Wong)<br>
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">語言:</td>
+      <td>普通話、廣東話及英語</td>
+    </tr>
+    <tr>
+      <td>性別:</td>
+      <td>女</td>
+    </tr>
+    <tr>
+      <td>專業會籍:</td>
+      <td>基督教輔導員專業協會會員、澳洲聯邦心理治療與諮詢登記會員</td>
+    </tr>
+    <tr>
+      <td>履歷:</td>
+      <td>家庭治療諮商畢業文憑（澳洲家庭治療學院）、教牧輔導碩士（中華福音神學院）、前兒童事工兼職傳道</td>
+    </tr>
+    <tr>
+      <td>專長:</td>
+      <td>婚姻輔導、婚前輔導、家庭治療、心理健康、個人成長</td>
+    </tr>
+  </tbody>
+</table>
+
+
+</div>
+</div>
+</div>
+
 
 </div>
 </div>
