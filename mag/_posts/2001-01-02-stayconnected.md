@@ -15,6 +15,24 @@ categories:
 <div class="panel-group " id="mag-panel">
 <div class="panel panel-default">
 <div class="panel-heading">
+<a data-toggle="collapse" data-parent="#mag-panel" href="#collapse2017">2017</a>
+</div>
+<div id="collapse2017">
+<div class="panel-body">  
+<a href="../stayconnect_Jan_2017.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="2017年1月號 Magazine" src="../stayconnect_Jan_2017_small.jpg">
+<div class="caption">
+<h4>2017年1月號</h4>
+</div></div>
+</div>
+</a>
+</div> {{! End panel-body}}
+</div> {{! End collapse}}
+</div> {{! End panel}}
+<div class="panel panel-default">
+<div class="panel-heading">
 <a data-toggle="collapse" data-parent="#mag-panel" href="#collapse2016">2016</a>
 </div>
 <div id="collapse2016">
@@ -80,7 +98,7 @@ categories:
 <div class="panel-heading">
 <a data-toggle="collapse" data-parent="#mag-panel" href="#collapse2015">2015</a>
 </div>
-<div id="collapse2015">
+<div id="collapse2015" class="collapse">
 <div class="panel-body">  
 <a href="../stayconnect_Jan_2015.pdf">
 <div class="col-sm-6 col-md-3">
