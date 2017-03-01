@@ -28,6 +28,15 @@ categories:
 </div></div>
 </div>
 </a>
+<a href="../stayconnect_Mar_2017.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="2017年3月號 Magazine" src="../stayconnect_Mar_2017_small.jpg">
+<div class="caption">
+<h4>2017年3月號</h4>
+</div></div>
+</div>
+</a>
 </div> {{! End panel-body}}
 </div> {{! End collapse}}
 </div> {{! End panel}}
