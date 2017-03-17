@@ -6,6 +6,7 @@ categories:
   - news  
 submenu:
   - {hook: "daniel_ng",  title: "吳宗文牧師"}
+  - {hook: "men_ministry",  title: "男士課程: 『神國好漢』"}
   - {hook: "can_dinner",  title: "粵語感恩大團聚"}
   - {hook: "ray_au",  title: "區祥江博士"}
   - {hook: "ben_wat",  title: "屈偉豪博士"}
@@ -81,7 +82,72 @@ submenu:
 </div> {{! End Panel-body}}
 </div> {{! End collapsecamp}}
 </div> {{! End Panel-default}}
+<div class="panel panel-default">
+<div class="panel-heading">
+<div class="panel-title">
+<a name="men_ministry" data-toggle="collapse" data-parent="#m-panel" href="#men_ministry_info"><h2>5月 男士課程: 『神國好漢』-做一個合神心意的男人 </h2></a>
+</div>
+</div>
+<div id="men_ministry_info" class="collapse">
+<div class="panel-body">
+<p>
+由『國際家庭更新協會』會長邱清泰博士研發的男士課程，已經在全球各地展開。最新『神國好漢』課程將一針見血地喚醒男人，重新對焦於神所給予的第一個呼召與使命；讓已經被時代困惑且逐漸麻木的心，藉聖靈的觸動而醒覺，進而勇於傳承和擔當神賦予男人作頭的屬靈天職，仿效約書亞帶領家庭全然向神擺上，成為家庭屬靈的領導、教會的祝福、職場的導航、與耶穌基督聖潔品格的見證！
+</p>
+<p>
+邱會長將帶領與會男士回到聖經的教導，一同活出合神心意、有『頭』有『心』、剛柔並濟的真男人角色。
+</p>
 
+<table style="text-align: left; width: 100%;" border="1"
+ cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td style="width: 15%;">課程主領:</td>
+      <td>邱清泰博士 – 國際家庭更新協會會長</td>
+    </tr>
+    <tr>
+      <td>課程對象:</td>
+      <td>男士（未婚及已婚）</td>
+    </tr>
+    <tr>
+      <td>日期:</td>
+      <td>粵語–5月13日星期六<br>
+          國語–5月20日星期六
+      </td>
+    </tr>
+    <tr>
+      <td>時間:</td>
+      <td>上午9時至下午5時（一小時午餐時間）</td>
+    </tr>
+    <tr>
+      <td>地點:</td>
+      <td>西雪梨華人基督教會</td>
+    </tr>
+    <tr>
+      <td>地址:</td>
+      <td>90 Homebush Road, Strathfield, NSW 2135</td>
+    </tr>
+	<tr>
+      <td>費用：</td>
+      <td><span style="font-weight: bold;" >$25 (包括午餐）</span>
+	  </td>
+    </tr>
+  </tbody>
+</table>
+名額有限，請盡早報名，額滿即止！<br>
+
+下載海報
+<a href="../SC1705M_HR.jpg"><span class="glyphicon glyphicon-picture"></span></a>
+<br>
+<br>
+下載報名表
+<a href="../SC1705M_rego.pdf"><span class="glyphicon glyphicon-picture"></span></a>
+<br>
+<br>
+電話查詢： (02) 9633-1925
+<br>
+</div> {{! End Panel-body}}
+</div> {{! End collapsecamp}}
+</div> {{! End Panel-default}}
 <div class="panel panel-default">
 <div class="panel-heading">
 <div class="panel-title">
