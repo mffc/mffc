@@ -42,7 +42,16 @@ categories:
 <div class="thumbnail">
 <img class="img-responsive" alt="2017年5月號 Magazine" src="../Stay connected web copy Vol1705.png">
 <div class="caption">
-<h4>2017年3月號</h4>
+<h4>2017年5月號</h4>
+</div></div>
+</div>
+</a>
+<a href="../StayConnected_1707.pdf">
+<div class="col-sm-6 col-md-3">
+<div class="thumbnail">
+<img class="img-responsive" alt="2017年7月號 Magazine" src="../StayConnected_1707.png">
+<div class="caption">
+<h4>2017年7月號</h4>
 </div></div>
 </div>
 </a>
